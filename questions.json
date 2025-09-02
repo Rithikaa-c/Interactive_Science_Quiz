@@ -1,0 +1,2423 @@
+[
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which instrument is used to measure length accurately?",
+    "question_ta": "நீளத்தை துல்லியமாக அளக்க எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Thermometer", "Ruler", "Weighing scale", "Stopwatch"],
+    "options_ta": ["வெப்பமானி", "அளவுகோல்", "எடைஅளவுகோல்", "நேரக்காட்டி"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "The SI unit of mass is:",
+    "question_ta": "பருமனின் SI அலகு எது?",
+    "options_en": ["Kilogram", "Meter", "Second", "Litre"],
+    "options_ta": ["கிலோகிராம்", "மீட்டர்", "வினாடி", "லிட்டர்"],
+    "answer": 0
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which clock is used to measure short time intervals?",
+    "question_ta": "குறுகிய நேர இடைவெளிகளை அளக்க எந்தக் கடிகாரம் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Wall clock", "Stopwatch", "Digital calendar", "Pendulum clock"],
+    "options_ta": ["சுவர் கடிகாரம்", "நேரக்காட்டி", "டிஜிட்டல் நாட்காட்டி", "தொங்கிக்கடிகாரம்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which force pulls objects toward the Earth?",
+    "question_ta": "பொருட்களை பூமியின்பால் இழுக்கும் விசை எது?",
+    "options_en": ["Friction", "Magnetic force", "Gravity", "Electric force"],
+    "options_ta": ["உராய்வு", "காந்த விசை", "ஈர்ப்பு விசை", "மின்சார விசை"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "What is the unit of force?",
+    "question_ta": "விசையின் அலகு எது?",
+    "options_en": ["Newton", "Joule", "Watt", "Meter"],
+    "options_ta": ["நியூட்டன்", "ஜூல்", "வாட்", "மீட்டர்"],
+    "answer": 0
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which type of motion does the Earth show around the Sun?",
+    "question_ta": "பூமி சூரியனைச் சுற்றி எப்படியான இயக்கத்தை காட்டுகிறது?",
+    "options_en": ["Rotational motion", "Oscillatory motion", "Circular motion", "Linear motion"],
+    "options_ta": ["சுழற்சி இயக்கம்", "அலைவியல் இயக்கம்", "வட்ட இயக்கம்", "நேர்கோட்டுஇயக்கம்"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which state of matter has a definite shape?",
+    "question_ta": "எந்த நிலை பொருளுக்கு நிரந்தர வடிவம் உண்டு?",
+    "options_en": ["Solid", "Liquid", "Gas", "Plasma"],
+    "options_ta": ["திடம்", "திரவம்", "வாயு", "பிளாஸ்மா"],
+    "answer": 0
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Water is an example of which state of matter?",
+    "question_ta": "தண்ணீர் எந்த நிலை பொருளின் உதாரணம்?",
+    "options_en": ["Solid", "Liquid", "Gas", "Plasma"],
+    "options_ta": ["திடம்", "திரவம்", "வாயு", "பிளாஸ்மா"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which gas do humans breathe in for survival?",
+    "question_ta": "மனிதர்கள் உயிர்வாழ எந்த வாயுவை சுவாசிக்கிறார்கள்?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹீலியம்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which part of the plant makes food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை உற்பத்தி செய்கிறது?",
+    "options_en": ["Root", "Leaf", "Stem", "Flower"],
+    "options_ta": ["வேர்", "இலை", "தண்டு", "மலர்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "The process of making food in plants is called:",
+    "question_ta": "தாவரங்களில் உணவு தயாரிக்கும் செயல்முறை எப்படிக் குறிப்பிடப்படுகிறது?",
+    "options_en": ["Respiration", "Transpiration", "Photosynthesis", "Digestion"],
+    "options_ta": ["மூச்சுவிடுதல்", "வியர்வையடைதல்", "ஒளிச்சேர்க்கை", "செரிமானம்"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which part of the plant absorbs water?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி தண்ணீரை உறிஞ்சுகிறது?",
+    "options_en": ["Flower", "Stem", "Leaf", "Root"],
+    "options_ta": ["மலர்", "தண்டு", "இலை", "வேர்"],
+    "answer": 3
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which animal is known as the 'King of the Jungle'?",
+    "question_ta": "‘காட்டின் ராஜா’ என்று அழைக்கப்படும் விலங்கு எது?",
+    "options_en": ["Tiger", "Lion", "Elephant", "Leopard"],
+    "options_ta": ["புலி", "சிங்கம்", "யானை", "புலி"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which bird is a national symbol of India?",
+    "question_ta": "இந்தியாவின் தேசிய பறவை எது?",
+    "options_en": ["Crow", "Peacock", "Sparrow", "Parrot"],
+    "options_ta": ["காகம்", "மயில்", "சிட்டுக்குருவி", "கிளி"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which animal gives us milk?",
+    "question_ta": "எந்த விலங்கு நமக்கு பாலை அளிக்கிறது?",
+    "options_en": ["Dog", "Goat", "Cow", "Cat"],
+    "options_ta": ["நாய்", "ஆடு", "பசு", "பூனை"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which disease is caused by mosquitoes?",
+    "question_ta": "எந்த நோய் கொசுக்களால் பரவுகிறது?",
+    "options_en": ["Typhoid", "Malaria", "Tuberculosis", "Diabetes"],
+    "options_ta": ["டைபாய்டு", "மலேரியா", "காசநோய்", "சர்க்கரை நோய்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "What should we do before eating food?",
+    "question_ta": "உணவு சாப்பிடுவதற்கு முன் நாம் என்ன செய்ய வேண்டும்?",
+    "options_en": ["Sleep", "Wash hands", "Run", "Play"],
+    "options_ta": ["தூங்கு", "கைகளை கழுவவும்", "ஓடு", "விளையாடு"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which organ pumps blood in our body?",
+    "question_ta": "எங்கள் உடலில் இரத்தத்தை பம்ப் செய்வது எந்த உறுப்பு?",
+    "options_en": ["Lungs", "Heart", "Kidney", "Liver"],
+    "options_ta": ["நுரையீரல்", "இதயம்", "சிறுநீரகம்", "கல்லீரல்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which device is called the 'brain' of a computer?",
+    "question_ta": "கணினியின் ‘மூளை’ என்று அழைக்கப்படும் பகுதி எது?",
+    "options_en": ["Monitor", "Keyboard", "CPU", "Mouse"],
+    "options_ta": ["மானிட்டர்", "விசைப்பலகை", "CPU", "சுட்டி"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Beginner",
+    "question_en": "Which storage device is permanent?",
+    "question_ta": "நிரந்தரமான சேமிப்பு கருவி எது?",
+    "options_en": ["RAM", "ROM", "Cache", "Register"],
+    "options_ta": ["ரேம்", "ரோம்", "கேச்", "பதிவு"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which instrument is used to measure very small lengths, like the thickness of a hair?",
+    "question_ta": "முடியின் தடிமன் போன்ற சிறிய நீளங்களை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Ruler", "Vernier Caliper", "Compass", "Protractor"],
+    "options_ta": ["அளவுகோல்", "வர்னியர் காலிப்பர்", "வட்டளவையர்", "கோணளவையர்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "1 kilometre is equal to how many metres?",
+    "question_ta": "1 கிலோமீட்டர் எத்தனை மீட்டர்?",
+    "options_en": ["10", "100", "1000", "10,000"],
+    "options_ta": ["10", "100", "1000", "10,000"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which force always opposes motion?",
+    "question_ta": "எந்த விசை எப்போதும் இயக்கத்திற்கு எதிராக செயல்படுகிறது?",
+    "options_en": ["Magnetic Force", "Gravitational Force", "Friction", "Tension"],
+    "options_ta": ["காந்த விசை", "இயற்பியல் ஈர்ப்பு விசை", "இரப்பு விசை", "இழுவிசை"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which law explains that an object at rest stays at rest unless acted upon by an external force?",
+    "question_ta": "ஒரு பொருள் அமைதியில் இருந்தால், வெளி விசை செயல்படாவிட்டால் அது அமைதியிலேயே இருக்கும் என்று கூறும் சட்டம் எது?",
+    "options_en": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+    "options_ta": ["நியூட்டனின் முதல் சட்டம்", "நியூட்டனின் இரண்டாம் சட்டம்", "நியூட்டனின் மூன்றாம் சட்டம்", "ஈர்ப்பு விதி"],
+    "answer": 0
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which process changes water into water vapor?",
+    "question_ta": "தண்ணீரை நீராவியாக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Condensation", "Evaporation", "Freezing", "Melting"],
+    "options_ta": ["தண்மையாக்கம்", "ஆவியாக்கம்", "உறைவு", "உருகல்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "What happens to matter when it is heated?",
+    "question_ta": "பொருள் சூடாக்கப்படும்போது என்ன நடக்கும்?",
+    "options_en": ["It contracts", "It expands", "It disappears", "It turns to ice"],
+    "options_ta": ["சுருங்கும்", "விரியும்", "காணாமல் போகும்", "பனியாகும்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which pigment in leaves helps in photosynthesis?",
+    "question_ta": "இலைகளில் ஒளிச்சேர்க்கைக்கு உதவும் நிறமிப்பு எது?",
+    "options_en": ["Hemoglobin", "Chlorophyll", "Melanin", "Carotene"],
+    "options_ta": ["ஹீமோகுளோபின்", "குளோரோஃபில்", "மெலனின்", "கரோட்டீன்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "What are plants called that prepare their own food?",
+    "question_ta": "தாங்களே உணவு தயாரிக்கும் தாவரங்களை என்ன அழைக்கப்படுகிறது?",
+    "options_en": ["Heterotrophs", "Saprophytes", "Autotrophs", "Parasites"],
+    "options_ta": ["ஹெடெரோட்ரோப்ஸ்", "சப்ரோஃபைட்ஸ்", "ஆட்டோட்ரோப்ஸ்", "பராசைட்ஸ்"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which organ helps fish to breathe in water?",
+    "question_ta": "மீன்கள் தண்ணீரில் சுவாசிக்க உதவும் உறுப்புகள் எது?",
+    "options_en": ["Lungs", "Gills", "Trachea", "Skin"],
+    "options_ta": ["நுரையீரல்", "கீல்", "காற்றுக்குழாய்", "தோல்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which animal is a cold-blooded vertebrate?",
+    "question_ta": "எந்த விலங்கு குளிர் இரத்தம் கொண்ட முதுகெலும்புள்ள விலங்காகும்?",
+    "options_en": ["Dog", "Frog", "Elephant", "Cow"],
+    "options_ta": ["நாய்", "தவளை", "யானை", "மாடு"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which disease is caused due to lack of Vitamin C?",
+    "question_ta": "வைட்டமின் C பற்றாக்குறையால் ஏற்படும் நோய் எது?",
+    "options_en": ["Scurvy", "Rickets", "Night Blindness", "Goitre"],
+    "options_ta": ["ஸ்கர்வி", "ரிக்கெட்ஸ்", "இரவுக்குருட்டுத்தன்மை", "காய்டர்"],
+    "answer": 0
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which part of the body fights against germs?",
+    "question_ta": "உடலின் எந்த பகுதி கிருமிகளுக்கு எதிராக போராடுகிறது?",
+    "options_en": ["Liver", "White blood cells", "Kidney", "Heart"],
+    "options_ta": ["கல்லீரல்", "வெள்ளை இரத்த அணுக்கள்", "சிறுநீரகம்", "இதயம்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which memory is permanent in a computer?",
+    "question_ta": "கணினியில் நிரந்தர நினைவகம் எது?",
+    "options_en": ["RAM", "ROM", "Cache", "Register"],
+    "options_ta": ["ரேம்", "ரோம்", "கேஷ்", "ரெஜிஸ்டர்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Intermediate",
+    "question_en": "Which device is used to store data permanently?",
+    "question_ta": "தரவை நிரந்தரமாக சேமிக்க எந்த சாதனம் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["RAM", "Hard Disk", "Cache", "Register"],
+    "options_ta": ["ரேம்", "ஹார்டு டிஸ்க்", "கேஷ்", "ரெஜிஸ்டர்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "A ship’s captain measures the depth of the ocean using an echo sounder. Which physical quantity is mainly involved?",
+    "question_ta": "ஒரு கப்பலின் கப்டன் எக்கோ சவுண்டர் மூலம் கடலின் ஆழத்தை அளக்கிறார். இதில் முக்கியமாக சம்பந்தப்பட்ட இயற்பியல் அளவு எது?",
+    "options_en": ["Force", "Time", "Sound velocity", "Pressure"],
+    "options_ta": ["விசை", "நேரம்", "ஒலி வேகம்", "அழுத்தம்"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "A liquid is measured in a measuring cylinder. The reading is always taken at the ______.",
+    "question_ta": "அளவீட்டு சிலிண்டரில் திரவத்தை அளக்கும் போது, வாசிப்பு எப்போதும் ______ இல் எடுக்கப்படுகிறது.",
+    "options_en": ["Top of liquid", "Bottom of meniscus", "Side of container", "Any point"],
+    "options_ta": ["திரவத்தின் மேல்", "மேனிஸ்கஸின் அடியில்", "கலனின் பக்கம்", "எந்த புள்ளியிலும்"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "Why does a ball stop after rolling on the ground?",
+    "question_ta": "தரையில் உருளும் பந்து ஏன் நிற்கிறது?",
+    "options_en": ["No force acts on it", "Friction opposes motion", "Gravity pulls it down", "Air pushes it forward"],
+    "options_ta": ["எந்த விசையும் செயல்படவில்லை", "இரப்பு இயக்கத்திற்கு எதிராக செயல்படுகிறது", "ஈர்ப்பு அதை கீழே இழுக்கிறது", "காற்று அதை முன்னோக்கி தள்ளுகிறது"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "A rocket moves forward by expelling gases backward. Which law explains this?",
+    "question_ta": "ஒரு ராக்கெட் பின்புறமாக வாயுவை வெளியேற்றி முன்னோக்கி செல்கிறது. இதை விளக்கும் சட்டம் எது?",
+    "options_en": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+    "options_ta": ["நியூட்டனின் முதல் சட்டம்", "நியூட்டனின் இரண்டாம் சட்டம்", "நியூட்டனின் மூன்றாம் சட்டம்", "ஈர்ப்பு விதி"],
+    "answer": 2
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "Why does ice float on water?",
+    "question_ta": "பனி ஏன் நீரில் மிதக்கிறது?",
+    "options_en": ["It is heavier than water", "It is lighter because density is less", "Air bubbles are trapped", "It dissolves partially"],
+    "options_ta": ["அது நீரைவிட கனமாக உள்ளது", "அதன் அடர்த்தி குறைவதால் எடை குறைவாகும்", "காற்றுக் குமிழிகள் சிக்கியுள்ளன", "அது பகுதியளவில் கரைகிறது"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "Which state of matter has definite volume but no definite shape?",
+    "question_ta": "எந்த நிலை பொருளுக்கு நிலையான பருமன் உள்ளது ஆனால் நிலையான வடிவம் இல்லை?",
+    "options_en": ["Solid", "Liquid", "Gas", "Plasma"],
+    "options_ta": ["திடம்", "திரவம்", "வாயு", "பிளாஸ்மா"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "Why are leaves called the 'food factories' of plants?",
+    "question_ta": "இலைகள் தாவரங்களின் 'உணவு தொழிற்சாலைகள்' என்று ஏன் அழைக்கப்படுகின்றன?",
+    "options_en": ["They store minerals", "They perform photosynthesis", "They absorb water", "They give oxygen only"],
+    "options_ta": ["அவை கனிமங்களை சேமிக்கின்றன", "அவை ஒளிச்சேர்க்கை செய்கின்றன", "அவை தண்ணீரை உறிஞ்சுகின்றன", "அவை ஆக்சிஜனை மட்டும் தருகின்றன"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "In desert plants, leaves are reduced to spines. What is the advantage?",
+    "question_ta": "பாலைவன தாவரங்களில், இலைகள் முட்களாகக் குறைக்கப்படுகின்றன. அதன் நன்மை என்ன?",
+    "options_en": ["Helps photosynthesis", "Prevents water loss", "Stores food", "Makes plant green"],
+    "options_ta": ["ஒளிச்சேர்க்கைக்கு உதவுகிறது", "நீரிழப்பைத் தடுக்கும்", "உணவு சேமிக்கிறது", "தாவரத்தை பச்சையாக மாற்றுகிறது"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "Why do camels have long legs?",
+    "question_ta": "ஒட்டகங்களுக்கு ஏன் நீண்ட கால்கள் உள்ளன?",
+    "options_en": ["To run faster", "To keep body away from hot sand", "To store food", "To balance the body"],
+    "options_ta": ["வேகமாக ஓடுவதற்கு", "உடலை சூடான மணலில் இருந்து விலக்குவதற்கு", "உணவு சேமிக்க", "உடலை சமநிலைப்படுத்த"],
+    "answer": 1
+  },
+  {
+    "grade": "6",
+    "level": "Advanced",
+    "question_en": "Why do birds have hollow bones?",
+    "question_ta": "பறவைகளுக்கு வெற்றிட எலும்புகள் ஏன் உள்ளன?",
+    "options_en": ["To make bones strong", "To reduce body weight for flight", "To store air for breathing", "To protect organs"],
+    "options_ta": ["எலும்புகளை வலுவாக்க", "விமானத்திற்காக உடல் எடையை குறைக்க", "சுவாசிக்க காற்றை சேமிக்க", "உடல் உறுப்புகளை பாதுகாக்க"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which instrument is used to measure length?",
+    "question_ta": "நீளம் அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Ruler", "Balance", "Thermometer", "Stopwatch"],
+    "options_ta": ["அளவுகோல்", "தராசு", "வெப்பமானி", "நேரக் கணிப்பான்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "What is the SI unit of mass?",
+    "question_ta": "தொகுதியின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Gram", "Kilogram", "Pound", "Litre"],
+    "options_ta": ["கிராம்", "கிலோกรாம்", "பவுண்ட்", "லிட்டர்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which gas do humans breathe in for survival?",
+    "question_ta": "மனிதர்கள் உயிர்வாழ எந்த வாயுவை சுவாசிக்கிறார்கள்?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹீலியம்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which force pulls objects toward the Earth?",
+    "question_ta": "பொருட்களை பூமியின் பக்கம் இழுக்கும் விசை எது?",
+    "options_en": ["Magnetic Force", "Gravitational Force", "Friction", "Push"],
+    "options_ta": ["காந்த விசை", "இயற்பியல் ஈர்ப்பு விசை", "இரப்பு விசை", "மிகுத்தல்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Thermometer", "Barometer", "Hygrometer", "Stopwatch"],
+    "options_ta": ["வெப்பமானி", "பாரோமீட்டர்", "ஹைக்ரோமீட்டர்", "நேரக் கணிப்பான்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "What is the primary function of leaves in plants?",
+    "question_ta": "தாவரங்களில் இலைகளின் முக்கிய செயல்பாடு என்ன?",
+    "options_en": ["Absorb water", "Perform photosynthesis", "Store food", "Support plant"],
+    "options_ta": ["தண்ணீர் உறிஞ்சுதல்", "ஒளிச்சேர்க்கை செய்யுதல்", "உணவு சேமித்தல்", "தாவரத்தை ஆதரித்தல்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which part of the plant absorbs water from the soil?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி மண்ணிலிருந்து தண்ணீரை உறிஞ்சுகிறது?",
+    "options_en": ["Stem", "Leaf", "Root", "Flower"],
+    "options_ta": ["தண்டு", "இலை", "வேர்", "மலர்"],
+    "answer": 2
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which vitamin is obtained from sunlight?",
+    "question_ta": "சூரிய ஒளியிலிருந்து கிடைக்கும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B", "வைட்டமின் C", "வைட்டமின் D"],
+    "answer": 3
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which blood cells fight against germs in our body?",
+    "question_ta": "உடலில் கிருமிகளுக்கு எதிராக போராடும் இரத்த அணுக்கள் எவை?",
+    "options_en": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பு இரத்த அணுக்கள்", "வெள்ளை இரத்த அணுக்கள்", "தட்டு அணுக்கள்", "பிளாஸ்மா"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which organ helps fish breathe in water?",
+    "question_ta": "மீன்கள் தண்ணீரில் சுவாசிக்க எந்த உறுப்புகள் உதவுகின்றன?",
+    "options_en": ["Gills", "Lungs", "Skin", "Heart"],
+    "options_ta": ["கீல்", "நுரையீரல்", "தோல்", "இதயம்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which animal lays eggs?",
+    "question_ta": "எந்த விலங்கு முட்டையிடுகிறது?",
+    "options_en": ["Dog", "Hen", "Cat", "Goat"],
+    "options_ta": ["நாய்", "கோழி", "பூனை", "ஆடு"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which is a conductor of electricity?",
+    "question_ta": "எந்தது மின் ஓட்டத்தை வழிநடத்துகிறது?",
+    "options_en": ["Rubber", "Copper", "Plastic", "Wood"],
+    "options_ta": ["ரப்பர்", "தாமிரம்", "பிளாஸ்டிக்", "மரம்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "What is the basic unit of life?",
+    "question_ta": "உயிரின் அடிப்படை அலகு எது?",
+    "options_en": ["Cell", "Atom", "Molecule", "Organ"],
+    "options_ta": ["செல்", "அணு", "மாலிக்யூல்", "உறுப்பு"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "What does a thermometer measure?",
+    "question_ta": "வெப்பமானி என்ன அளவிடுகிறது?",
+    "options_en": ["Pressure", "Temperature", "Humidity", "Force"],
+    "options_ta": ["அழுத்தம்", "வெப்பநிலை", "ஈரப்பதம்", "விசை"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which device is used to store digital images?",
+    "question_ta": "டிஜிட்டல் படங்களை சேமிக்க எந்த சாதனம் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Hard Disk", "Scanner", "Camera", "Monitor"],
+    "options_ta": ["ஹார்டு டிஸ்க்", "ஸ்கேனர்", "கேமரா", "மானிட்டர்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which device is used to control a computer?",
+    "question_ta": "கணினியை கட்டுப்படுத்த எந்த சாதனம் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Keyboard", "Printer", "Monitor", "Speaker"],
+    "options_ta": ["கீபோர்டு", "பிரின்டர்", "மானிட்டர்", "ஸ்பீக்கர்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which simple machine is a ramp?",
+    "question_ta": "எந்த எளிய இயந்திரம் ஒரு ராம்ப் ஆகும்?",
+    "options_en": ["Lever", "Inclined plane", "Pulley", "Wheel and axle"],
+    "options_ta": ["லீவர்", "சாய்வழிப் பிளேன்", "புல்லி", "சக்கரம் மற்றும் அச்சு"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which force keeps us on the ground?",
+    "question_ta": "எங்களை தரையில் வைத்திருக்கும் விசை எது?",
+    "options_en": ["Magnetism", "Gravity", "Friction", "Push"],
+    "options_ta": ["காந்த விசை", "ஈர்ப்பு விசை", "இரப்பு", "தள்ளல்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Beginner",
+    "question_en": "Which organ pumps blood in the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை பொங்கும் உறுப்பு எது?",
+    "options_en": ["Lungs", "Heart", "Kidney", "Liver"],
+    "options_ta": ["நுரையீரல்", "இதயம்", "சிறுநீரகம்", "கல்லீரல்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "If a ball is thrown vertically upward, what happens to its speed at the topmost point?",
+    "question_ta": "ஒரு பந்து செங்குத்தாக மேலே எறியப்பட்டால், அதன் வேகம் உச்ச புள்ளியில் என்ன ஆகும்?",
+    "options_en": ["Maximum", "Zero", "Half", "Same as start"],
+    "options_ta": ["அதிகபட்சம்", "சூன்யம்", "அரை", "ஆரம்பத்துடன் அதே"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Why does a metal rod expand on heating?",
+    "question_ta": "உருகும் போது ஒரு உலோகம் தடுப்பு ஏன் விரிகிறது?",
+    "options_en": ["Due to force", "Due to thermal expansion", "Due to pressure", "Due to weight"],
+    "options_ta": ["விசை காரணமாக", "வெப்ப விருத்தி காரணமாக", "அழுத்த காரணமாக", "எடை காரணமாக"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which device is used to measure electric current?",
+    "question_ta": "மின் ஓட்டத்தை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+    "options_ta": ["வோல்ட்மீட்டர்", "ஆமீட்டர்", "கல்வனோமீட்டர்", "ஓம்மீட்டர்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which part of a flower becomes the fruit?",
+    "question_ta": "மலரின் எந்த பகுதி பழமாக மாறுகிறது?",
+    "options_en": ["Petal", "Stamen", "Ovule", "Sepal"],
+    "options_ta": ["பூக்கள்", "துண்டுகள்", "மூலப்பிரிவு", "சீப்பல்"],
+    "answer": 2
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Why do we see lightning before we hear thunder?",
+    "question_ta": "மின்னல் காட்டு முன் கடுக்கல் ஏன் கேட்கப்படுகிறது?",
+    "options_en": ["Light travels faster than sound", "Sound is blocked", "Thunder comes first", "Air delays sound"],
+    "options_ta": ["ஒளி ஒலியைவிட வேகமாக பயணிக்கும்", "ஒலி தடையால் வருகிறது", "கடுக்கல் முன்பு வரும்", "காற்று ஒலியை தாமதப்படுத்துகிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which organelle is called the powerhouse of the cell?",
+    "question_ta": "செல்லின் சக்தி மையமாக அழைக்கப்படும் உறுப்பு எது?",
+    "options_en": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "options_ta": ["நியூக்லியஸ்", "மைட்டோகாண்ட்ரியா", "ரிபோசோம்", "கிளோரோபிளாஸ்ட்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which device converts chemical energy into electrical energy?",
+    "question_ta": "எந்த கருவி வேதியியல் சக்தியை மின்சக்தியாக மாற்றுகிறது?",
+    "options_en": ["Battery", "Motor", "Generator", "Resistor"],
+    "options_ta": ["மின்கூட்டி", "மின்சங்கம்", "ஜெனரேட்டர்", "தடைச் சாதனம்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "What causes day and night on Earth?",
+    "question_ta": "பூமியில் பகலும் இரவும் ஏன் ஏற்படுகிறது?",
+    "options_en": ["Earth revolves around Sun", "Earth rotates on its axis", "Moon blocks Sun", "Earth tilts seasonally"],
+    "options_ta": ["பூமி சூரியனைச் சுற்றுகிறது", "பூமி தனது அச்சில் சுழற்சிகிறது", "சந்திரன் சூரியனை மறைக்கிறது", "பூமி பருவத்திற்கு சாய்கிறது"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which is a renewable source of energy?",
+    "question_ta": "மீண்டும் பயன்படுத்தக்கூடிய சக்தி மூலதனம் எது?",
+    "options_en": ["Coal", "Solar", "Petrol", "Natural gas"],
+    "options_ta": ["கோல்", "சூரிய சக்தி", "பெட்ரோல்", "சோதன வாயு"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Why do planets appear to move in the sky?",
+    "question_ta": "நட்சத்திரங்களில் பிளானெட்டுகள் எதனால் இயக்கப்படுவதாக தோன்றுகின்றன?",
+    "options_en": ["Earth rotates", "Planets rotate", "Earth revolves", "Moon revolves"],
+    "options_ta": ["பூமி சுழற்சி", "பிளானெட் சுழற்சி", "பூமி சுழற்சி செய்கிறது", "சந்திரன் சுழற்சி செய்கிறது"],
+    "answer": 2
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which vitamin helps in blood clotting?",
+    "question_ta": "இரத்த உறைப்பு எந்த வைட்டமின் உதவுகிறது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B", "வைட்டமின் C", "வைட்டமின் K"],
+    "answer": 3
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which simple machine is a seesaw?",
+    "question_ta": "எந்த எளிய இயந்திரம் சீஸா ஆகும்?",
+    "options_en": ["Lever", "Wheel and axle", "Pulley", "Inclined plane"],
+    "options_ta": ["லீவர்", "சக்கரம் மற்றும் அச்சு", "புல்லி", "சாய்வழிப் பிளேன்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which blood vessels carry oxygenated blood from heart to body?",
+    "question_ta": "ஏதேனும் இரத்தக் குழாய்கள் இதயத்திலிருந்து உடலுக்கு ஆக்சிஜன் நிறைந்த இரத்தத்தை கொண்டு செல்லும்?",
+    "options_en": ["Veins", "Arteries", "Capillaries", "Venules"],
+    "options_ta": ["நரம்புகள்", "அர்ட்டரிகள்", "கேப்பிலரீஸ்", "வீனியூல்ஸ்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Why does a rainbow form after rain?",
+    "question_ta": "மழைக்குப் பிறகு வானவில் ஏன் உருவாகிறது?",
+    "options_en": ["Reflection and refraction of light", "Wind patterns", "Earth’s rotation", "Cloud formation"],
+    "options_ta": ["ஒளியின் பிரதிபலிப்பு மற்றும் உதிர்வு", "காற்றின் நெறிகள்", "பூமி சுழற்சி", "மேக உருவாக்கம்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which gas is released during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கை செயல்பாட்டின் போது எந்த வாயு வெளியேறுகிறது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which material is a good conductor of heat?",
+    "question_ta": "ஏதேனும் பொருள் வெப்பத்தை நன்கு வழங்கும்?",
+    "options_en": ["Wood", "Copper", "Plastic", "Rubber"],
+    "options_ta": ["மரம்", "தாமிரம்", "பிளாஸ்டிக்", "ரப்பர்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Why do some animals hibernate in winter?",
+    "question_ta": "சில விலங்குகள் குளிர்காலத்தில் ஏன் உறங்குகின்றன?",
+    "options_en": ["To escape predators", "To save energy", "To mate", "To find food"],
+    "options_ta": ["விலங்குகளிலிருந்து தப்பிக்க", "சக்தியை சேமிக்க", "பெருக்கத்திற்கு", "உணவை கண்டறிய"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which energy transformation occurs in a moving fan?",
+    "question_ta": "சுழலும் விசிறியில் எந்த சக்தி மாற்றம் நிகழ்கிறது?",
+    "options_en": ["Electrical to mechanical", "Chemical to electrical", "Heat to light", "Kinetic to potential"],
+    "options_ta": ["மின்சக்தி → இயந்திர சக்தி", "வேதியியல் → மின்சக்தி", "வெப்பம் → ஒளி", "செயல்சக்தி → நிலைத்த சக்தி"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Intermediate",
+    "question_en": "Which phenomenon causes a stick to appear bent in water?",
+    "question_ta": "ஒரு கம்பி நீரில் சாய்ந்தது போல் தோன்றுவதற்கு காரணம் எது?",
+    "options_en": ["Reflection", "Refraction", "Diffusion", "Absorption"],
+    "options_ta": ["பிரதிபலிப்பு", "உதிர்வு", "விரிதல்", "உறிஞ்சல்"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why does a metal ball expand when heated but a wooden ball does not expand much?",
+    "question_ta": "உலோகம் வெப்பமுறுத்தப்பட்டால் பந்து விரிகிறது ஆனால் மர பந்து அதிகம் விரியாதது ஏன்?",
+    "options_en": ["Wood has air pockets", "Metal conducts heat better", "Wood is heavier", "Metal is lighter"],
+    "options_ta": ["மரத்தில் காற்றுக் குழாய்கள் உள்ளன", "உலோகம் வெப்பத்தை நன்கு பரப்புகிறது", "மரம் கனமாக உள்ளது", "உலோகம் எளிதாக உள்ளது"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "A block is sliding on a rough surface. How can friction be reduced?",
+    "question_ta": "ஒரு கட்டு கடுமையான மேற்பரப்பில் ஸ்லைடு ஆகிறது. இரப்பை எவ்வாறு குறைக்கலாம்?",
+    "options_en": ["Polish surface", "Use oil/lubricant", "Increase weight", "Use sandpaper"],
+    "options_ta": ["மேற்பரப்பை பளபளப்பாகச் செய்", "எண்ணெய்/செயற்கை பயன்படுத்து", "எடையை அதிகரிக்க", "மென்மையான காகிதம் பயன்படுத்து"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why do astronauts feel weightless in the orbit around Earth?",
+    "question_ta": "பூமியைச் சுற்றும் பரப்பில் விண்வெளி வீரர்கள் எடையில்லாததை ஏன் உணர்கிறார்கள்?",
+    "options_en": ["No gravity in space", "They fall with satellite", "Air resistance cancels weight", "Space is empty"],
+    "options_ta": ["விண்வெளியில் ஈர்ப்பு இல்லை", "அவர்கள் செயற்கைக்கோளுடன் விழுகிறார்கள்", "காற்று எதிர்ப்பு எடையை ரத்து செய்கிறது", "விண்வெளி வெறுமை"],
+    "answer": 1
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why does a rainbow form only when sun shines after rain?",
+    "question_ta": "மழைக்குப் பிறகு மட்டும் சூரிய ஒளி தெரிந்தால் வானவில் உருவாகிறது ஏன்?",
+    "options_en": ["Reflection, refraction and dispersion of light", "Clouds create it", "Wind bends light", "Moonlight helps"],
+    "options_ta": ["ஒளியின் பிரதிபலிப்பு, உதிர்வு மற்றும் விரிதல் காரணமாக", "மேகங்கள் உருவாக்குகிறது", "காற்று ஒளியை சாய்த்து விடுகிறது", "சந்திர ஒளி உதவுகிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why do desert plants have spines instead of leaves?",
+    "question_ta": "பாலைவன தாவரங்களில் இலைகள் இல்லாமல் முட்கள் ஏன் உள்ளன?",
+    "options_en": ["To reduce water loss", "To attract insects", "To store food", "For photosynthesis"],
+    "options_ta": ["நீரிழப்பை குறைக்க", "தூண்டு பூச்சிகள்", "உணவு சேமிக்க", "ஒளிச்சேர்க்கை செய்ய"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why is the nucleus called the control center of the cell?",
+    "question_ta": "நியூக்லியஸ் செல்லின் கட்டுப்பாட்டு மையம் என்று ஏன் அழைக்கப்படுகிறது?",
+    "options_en": ["Stores DNA and regulates cell activities", "Produces energy", "Synthesizes proteins", "Transports materials"],
+    "options_ta": ["DNA சேமித்து செல்லின் செயல்பாடுகளை கட்டுப்படுத்துகிறது", "சக்தி உற்பத்தி செய்கிறது", "புரதங்களை உருவாக்குகிறது", "பொருட்களை மாற்றுகிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why does ice float on water while other solids sink?",
+    "question_ta": "மற்ற திடங்களை மூழ்கும் போது பனி நீரில் மிதக்கிறது ஏன்?",
+    "options_en": ["Ice has lower density than water", "Ice is lighter in weight", "Water pushes ice", "Ice has air bubbles"],
+    "options_ta": ["பனியின் அடர்த்தி நீரைவிட குறைவு", "பனி எடை குறைவு", "நீர் பனியை தள்ளுகிறது", "பனியில் காற்றுக் குழாய்கள் உள்ளன"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why are metals good conductors of electricity?",
+    "question_ta": "உலோகங்கள் மின்சாரத்தை நன்கு வழிநடத்துவது ஏன்?",
+    "options_en": ["Due to free electrons", "Due to heavy weight", "Due to color", "Due to hardness"],
+    "options_ta": ["சுதந்திரமான எலக்ட்ரான்கள் காரணமாக", "எடை காரணமாக", "நிறம் காரணமாக", "கடினத்தன்மை காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why do planets revolve around the Sun?",
+    "question_ta": "பிளானெட்டுகள் சூரியனைச் சுற்றுகின்றன ஏன்?",
+    "options_en": ["Due to gravitational force", "Due to wind", "Due to rotation", "Due to magnetic field"],
+    "options_ta": ["இயற்பியல் ஈர்ப்பு விசை காரணமாக", "காற்று காரணமாக", "சுழற்சி காரணமாக", "காந்த களம் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why does a compass needle always point north?",
+    "question_ta": "ஒரு கம்பஸ் அம்பு எப்போதும் வடக்கை குறிக்கிறது ஏன்?",
+    "options_en": ["Earth acts as a magnet", "Wind pushes it", "Sunlight affects it", "Magnet attracts north pole only"],
+    "options_ta": ["பூமி காந்தமாக செயல்படுகிறது", "காற்று தள்ளுகிறது", "சூரிய ஒளி தாக்குகிறது", "காந்தம் வடக்குத் திசையைக் கவருகிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why do we get seasons on Earth?",
+    "question_ta": "பூமியில் பருவங்கள் ஏன் ஏற்படுகின்றன?",
+    "options_en": ["Tilt of Earth’s axis during revolution", "Distance from Sun", "Moon’s orbit", "Wind patterns"],
+    "options_ta": ["சுற்றும் போது பூமியின் அச்சு சாய்வு", "சூரியனைத் தொலைவு", "சந்திரன் சுற்று", "காற்றின் நெறிகள்"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why does blood appear red?",
+    "question_ta": "இரத்தம் ஏன் சிவப்பாகத் தோன்றுகிறது?",
+    "options_en": ["Due to presence of hemoglobin", "Due to oxygen", "Due to plasma", "Due to platelets"],
+    "options_ta": ["ஹீமோகுளோபின் காரணமாக", "ஆக்சிஜன் காரணமாக", "பிளாஸ்மா காரணமாக", "தட்டு அணுக்கள் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why is digital painting preferred over traditional painting in design?",
+    "question_ta": "வடிவமைப்பில் பாரம்பரிய ஓவியத்தைவிட டிஜிட்டல் ஓவியம் ஏன் முன்னுரிமை பெறுகிறது?",
+    "options_en": ["Easier editing and multiple copies", "Uses brushes only", "Needs less skill", "No colors used"],
+    "options_ta": ["எடிட்டிங் எளிது மற்றும் பல பிரதிகள்", "மட்டும் ப்ரஷ்கள் பயன்படுத்துகிறது", "குறைந்த திறமை தேவை", "நிறங்கள் பயன்படுத்தப்படவில்லை"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why do electrical wires get hot when current passes?",
+    "question_ta": "மின்சாரம் ஓடும் போது மின்கம்பிகள் ஏன் சூடாகின்றன?",
+    "options_en": ["Due to resistance in wire", "Due to magnetic field", "Due to current decrease", "Due to insulation"],
+    "options_ta": ["கம்பியில் எதிர்ப்பு காரணமாக", "காந்த களம் காரணமாக", "ஓட்டம் குறைவதால்", "முகாமை காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why do cells divide?",
+    "question_ta": "செல்கள் ஏன் பிரிகின்றன?",
+    "options_en": ["For growth and repair", "To move", "To store energy", "To change color"],
+    "options_ta": ["வளர்ச்சி மற்றும் பழுது பழுது செய்ய", "சலனம் செய்ய", "சக்தி சேமிக்க", "நிறத்தை மாற்ற"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why is water considered a universal solvent?",
+    "question_ta": "நீர் ஏன் உலகளாவிய கரைப்பான் என்று கருதப்படுகிறது?",
+    "options_en": ["It dissolves many substances", "It is colorless", "It flows easily", "It is tasteless"],
+    "options_ta": ["பல பொருட்களை கரைக்கும்", "நிறமில்லாதது", "சுலபமாக ஓடும்", "சுவையற்றது"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why are some metals used in electrical wires but others are not?",
+    "question_ta": "சில உலோகங்கள் மின் கம்பிகளில் பயன்படுத்தப்படுவதற்கு காரணம் என்ன?",
+    "options_en": ["Due to high conductivity and ductility", "Due to color", "Due to weight", "Due to hardness"],
+    "options_ta": ["உயர் நடத்துகை மற்றும் மடிப்பதற்குரிய தன்மை காரணமாக", "நிற காரணமாக", "எடை காரணமாக", "கடினத்தன்மை காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "7",
+    "level": "Advanced",
+    "question_en": "Why do some birds migrate during winter?",
+    "question_ta": "சில பறவைகள் குளிர்காலத்தில் ஏன் இடம் மாறுகின்றன?",
+    "options_en": ["To find food and warmer places", "To escape predators", "To lay eggs", "To mate"],
+    "options_ta": ["உணவு மற்றும் சூடான இடங்களை தேட", "விலங்குகளிலிருந்து தப்ப", "முட்டை இட", "பெருக்க"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "What is the basic unit of measurement for length?",
+    "question_ta": "நீளத்திற்கு அடிப்படை அளவீட்டு அலகு எது?",
+    "options_en": ["Meter", "Liter", "Gram", "Second"],
+    "options_ta": ["மீட்டர்", "லிட்டர்", "கிராம்", "வினாடி"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "What is force measured in?",
+    "question_ta": "வலியை எந்த அலகில் அளவிடுகின்றோம்?",
+    "options_en": ["Newton", "Joule", "Watt", "Pascal"],
+    "options_ta": ["நியூட்டன்", "ஜூல்", "வாட்", "பாஸ்கல்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which device helps in measuring electric current?",
+    "question_ta": "மின்சார ஓட்டத்தை அளவிட உதவும் கருவி எது?",
+    "options_en": ["Ammeter", "Voltmeter", "Galvanometer", "Wattmeter"],
+    "options_ta": ["ஆமீட்டர்", "வோல்ட்மீட்டர்", "கல்வனோமீட்டர்", "வாட் மீட்டர்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which gas do humans breathe in to survive?",
+    "question_ta": "மனிதர்கள் உயிர்வாழ ஏதேனும் வாயு சுவாசிக்கிறார்கள்?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "What does a thermometer measure?",
+    "question_ta": "ஒரு வெப்பமாபி எதை அளவிடுகிறது?",
+    "options_en": ["Temperature", "Pressure", "Mass", "Volume"],
+    "options_ta": ["வெப்பம்", "அழுத்தம்", "தொகை", "அளவு"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which part of the plant makes food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவு தயாரிக்கிறது?",
+    "options_en": ["Leaves", "Roots", "Stem", "Flowers"],
+    "options_ta": ["இலைகள்", "வேர்", "தண்டு", "பூக்கள்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which organ helps in pumping blood in the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை தள்ள உதவும் உறுப்பு எது?",
+    "options_en": ["Heart", "Lungs", "Kidney", "Brain"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "சிறுநீரகங்கள்", "மூளை"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "What is the primary source of energy for Earth?",
+    "question_ta": "பூமிக்கு அடிப்படை சக்தி மூலதனம் எது?",
+    "options_en": ["Sun", "Moon", "Stars", "Wind"],
+    "options_ta": ["சூரியன்", "சந்திரன்", "நட்சத்திரங்கள்", "காற்று"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which planet is known as the Red Planet?",
+    "question_ta": "எந்த கிரகத்தை சிவப்பு கிரகமாக அறிந்திருக்கின்றோம்?",
+    "options_en": ["Mars", "Venus", "Jupiter", "Mercury"],
+    "options_ta": ["மார்ஸ்", "வீனஸ்", "ஜூபிடர்", "மெர்குரி"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which natural force keeps us on Earth?",
+    "question_ta": "எங்களை பூமியில் தாங்கும் இயற்கை விசை எது?",
+    "options_en": ["Gravity", "Magnetism", "Friction", "Pressure"],
+    "options_ta": ["ஈர்ப்பு விசை", "காந்த விசை", "உருக்க விசை", "அழுத்தம்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which is a solid at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் எது திடமாக இருக்கும்?",
+    "options_en": ["Ice", "Water", "Alcohol", "Mercury"],
+    "options_ta": ["பனி", "நீர்", "அல்கஹால்", "மெர்குரி"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which is used for digital painting?",
+    "question_ta": "டிஜிட்டல் ஓவியத்திற்கு எது பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Computer", "Canvas", "Brush", "Palette"],
+    "options_ta": ["கணினி", "கேன்வாஸ்", "ப்ரஷ்", "பாலெட்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which simple machine is a lever?",
+    "question_ta": "எந்த எளிய இயந்திரம் லீவர் ஆகும்?",
+    "options_en": ["Seesaw", "Pulley", "Wheel", "Inclined plane"],
+    "options_ta": ["சீஸா", "புல்லி", "சக்கரம்", "சாய்வழிப் பிளேன்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "What is the center of an atom called?",
+    "question_ta": "அட்டத்தில் மையம் என்ன என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Nucleus", "Electron", "Proton", "Neutron"],
+    "options_ta": ["நியூக்லியஸ்", "எலக்ட்ரான்", "ப்ரோட்டான்", "நியூட்ரான்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which is a renewable source of energy?",
+    "question_ta": "மீண்டும் பயன்படுத்தக்கூடிய சக்தி மூலதனம் எது?",
+    "options_en": ["Solar", "Coal", "Petrol", "Natural gas"],
+    "options_ta": ["சூரிய சக்தி", "கோல்", "பெட்ரோல்", "சோதன வாயு"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which part of the ear helps in hearing?",
+    "question_ta": "காதில் எந்த பகுதி கேட்க உதவுகிறது?",
+    "options_en": ["Cochlea", "Pinna", "Ear canal", "Eardrum"],
+    "options_ta": ["கோக்லியா", "பின்னா", "காத் நழுவு", "காத் டிரம்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which gas is essential for photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கைக்கு எந்த வாயு முக்கியம்?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "What type of lens is used in magnifying glasses?",
+    "question_ta": "பெரிதாக்கும் கண்ணாடிகளில் எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Convex", "Concave", "Plane", "Bifocal"],
+    "options_ta": ["கூள்மைய லென்ஸ்", "வளைந்த லென்ஸ்", "சதுர லென்ஸ்", "இரட்டை லென்ஸ்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which part of a plant absorbs water?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி நீரை உறிஞ்சுகிறது?",
+    "options_en": ["Roots", "Leaves", "Stem", "Flower"],
+    "options_ta": ["வேர்", "இலைகள்", "தண்டு", "பூ"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Beginner",
+    "question_en": "Which device is used to switch on and off an electric circuit?",
+    "question_ta": "மின் வட்டாரத்தை இயக்க அல்லது நிறுத்த எந்த கருவி பயன்படுகிறது?",
+    "options_en": ["Switch", "Resistor", "Ammeter", "Bulb"],
+    "options_ta": ["சுவிட்ச்", "ரெசிஸ்டர்", "ஆமீட்டர்", "பல்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why does a magnet attract iron objects but not wood?",
+    "question_ta": "காந்தம் எஃகு பொருட்களை ஈர்க்கிறது ஆனால் மரத்தை ஏன் இல்லை?",
+    "options_en": ["Because iron is magnetic", "Because wood is heavy", "Because wood has electrons", "Because iron is light"],
+    "options_ta": ["ஏனெனில் எஃகு காந்தமானது", "ஏனெனில் மரம் கனமாக உள்ளது", "ஏனெனில் மரத்தில் எலக்ட்ரான்கள் உள்ளன", "ஏனெனில் எஃகு எளிதாக உள்ளது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do we see lightning before thunder?",
+    "question_ta": "ஏன் மின்னல் தோற்றத்துக்கு முன்னால் மின்னல் குரல் கேட்கப்படுகிறது?",
+    "options_en": ["Light travels faster than sound", "Thunder travels faster", "Air delays light", "Clouds reflect sound"],
+    "options_ta": ["ஒளி ஒலியைவிட வேகமாக பயணிக்கிறது", "மின்னல் வேகமாக பயணிக்கிறது", "காற்று ஒளியை தாமதிக்கிறது", "மேகங்கள் ஒலி பிரதிபலிக்கிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why does a moving bicycle slow down on rough roads?",
+    "question_ta": "நடக்கும் சைக்கிள் கடுமையான சாலைகளில் மெதுவாக ஏன் நகர்கிறது?",
+    "options_en": ["Due to friction", "Due to air resistance", "Due to gravity", "Due to weight loss"],
+    "options_ta": ["உருக்க விசை காரணமாக", "காற்று எதிர்ப்பு காரணமாக", "ஈர்ப்பு விசை காரணமாக", "எடை குறைவு காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why does water form droplets on a cold surface?",
+    "question_ta": "ஏன் நீர் குளிர்ந்த மேற்பரப்பில் துளைகள் உருவாக்குகிறது?",
+    "options_en": ["Due to condensation", "Due to evaporation", "Due to melting", "Due to freezing"],
+    "options_ta": ["மெய்திருப்பின் காரணமாக", "வெப்பக் குறைவு காரணமாக", "கலக்கும் காரணமாக", "குளிர்ந்த காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do plants have stomata on their leaves?",
+    "question_ta": "தாவரங்கள் தங்களின் இலைகளில் ஸ்டோமாடா ஏன் இருக்கின்றன?",
+    "options_en": ["For gas exchange", "For absorbing water", "For storing food", "For photosynthesis only"],
+    "options_ta": ["வாயு பரிமாற்றத்திற்கு", "நீர் உறிஞ்சுவதற்கு", "உணவு சேமிக்க", "ஒளிச்சேர்க்கைக்கு மட்டும்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why does sound travel faster in solids than in air?",
+    "question_ta": "ஒலி காற்றைவிட திடங்களில் வேகமாக பயணிக்கிறது ஏன்?",
+    "options_en": ["Particles are closer in solids", "Solids are heavier", "Solids are darker", "Air resists sound"],
+    "options_ta": ["திடங்களில் துகள்கள் நெருக்கமாக உள்ளன", "திடங்கள் கனமாக உள்ளன", "திடங்கள் இருட்டாக உள்ளது", "காற்று ஒலிக்கு எதிராக உள்ளது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why is the filament in a bulb made of tungsten?",
+    "question_ta": "ஒரு விளக்கின் ஃபிலாமெண்ட் வெங்க்ஸ்டனில் உருவாக்கப்பட்டதென்?",
+    "options_en": ["High melting point", "Low resistance", "Lightweight", "Magnetic property"],
+    "options_ta": ["உயர் கரைவு புள்ளி", "குறைந்த எதிர்ப்பு", "எளிய எடை", "காந்த பண்பு"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do stars appear to twinkle in the night sky?",
+    "question_ta": "நட்சத்திரங்கள் இரவில் மின்னும் போல் தோன்றுவது ஏன்?",
+    "options_en": ["Due to atmospheric refraction", "Due to their movement", "Due to distance", "Due to size"],
+    "options_ta": ["காற்றின் உதிர்வின் காரணமாக", "அவர்கள் நகரும் காரணமாக", "தொலைவு காரணமாக", "வட்டாரம் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do we use a fuse in an electric circuit?",
+    "question_ta": "மின்சார வட்டாரத்தில் ஃபியூஸ் ஏன் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["To prevent overcurrent", "To increase current", "To store energy", "To reduce voltage"],
+    "options_ta": ["அதிக ஓட்டத்தைத் தடுக்க", "ஓட்டத்தை அதிகரிக்க", "சக்தி சேமிக்க", "மின்னழுத்தத்தை குறைக்க"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do some metals rust while others do not?",
+    "question_ta": "சில உலோகங்கள் சிதைபடுகின்றன ஆனால் சில இல்லை ஏன்?",
+    "options_en": ["Due to reaction with oxygen and water", "Due to weight", "Due to color", "Due to hardness"],
+    "options_ta": ["ஆக்ஸிஜன் மற்றும் நீருடன் எதிர்வினை காரணமாக", "எடை காரணமாக", "நிற காரணமாக", "கடினத்தன்மை காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do we wear goggles in a chemistry lab?",
+    "question_ta": "ஒரு வேதியல் ஆய்வகம் உட்பட நமக்கு கண்ணாடி ஏன் அணிய வேண்டும்?",
+    "options_en": ["To protect eyes from chemicals", "To see better", "To reduce glare", "To look professional"],
+    "options_ta": ["வேதியியல் பொருட்களிலிருந்து கண்களை பாதுகாக்க", "நன்றாக பார்க்க", "ஒளியை குறைக்க", "தொழில்முறை தோற்றம் பெற"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why does ice take longer to melt in saltwater?",
+    "question_ta": "உப்புநீரில் பனி கரைய அதிக நேரம் எடுக்கிறது ஏன்?",
+    "options_en": ["Freezing point is lowered", "Ice is cold", "Salt absorbs heat", "Water resists melting"],
+    "options_ta": ["கறை புள்ளி குறைகிறது", "பனி குளிராக உள்ளது", "உப்பு வெப்பத்தை உறிஞ்சுகிறது", "நீர் கரைய எதிர்க்கிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do we see objects under water bent or broken?",
+    "question_ta": "நீர் கீழ் பொருட்களை சாய்ந்தவோ அல்லது உடைந்தவோ காண்கிறோம் ஏன்?",
+    "options_en": ["Due to refraction of light", "Due to reflection", "Due to absorption", "Due to diffusion"],
+    "options_ta": ["ஒளி உதிர்வு காரணமாக", "ஒளி பிரதிபலிப்பு காரணமாக", "ஒளி உறிஞ்சல் காரணமாக", "ஒளி பரவல் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why is water considered essential for all living beings?",
+    "question_ta": "எல்லா உயிர்களுக்கும் நீர் முக்கியம் ஏன்?",
+    "options_en": ["It is needed for all biological processes", "It tastes good", "It looks clear", "It evaporates easily"],
+    "options_ta": ["எல்லா உயிரியல் செயல்முறைகளுக்கும் தேவை", "சுவை நல்லது", "தெளிவாக தெரிகிறது", "எளிதில் ஆவியாகிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do magnets have north and south poles?",
+    "question_ta": "காந்தங்களுக்கு வட மற்றும் தெற்கு துடுப்புகள் ஏன் இருக்கின்றன?",
+    "options_en": ["Due to alignment of magnetic domains", "Due to weight", "Due to color", "Due to temperature"],
+    "options_ta": ["காந்த மண்டலங்கள் வரிசைப்படுத்தப்பட்டதால்", "எடை காரணமாக", "நிற காரணமாக", "வெப்பநிலை காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do we use a pulley to lift heavy objects?",
+    "question_ta": "நாம் கனமான பொருட்களை தூக்க புல்லி ஏன் பயன்படுத்துகிறோம்?",
+    "options_en": ["To reduce effort", "To increase speed", "To change direction", "To measure weight"],
+    "options_ta": ["விருப்பத்தை குறைக்க", "வேகத்தை அதிகரிக்க", "திசையை மாற்ற", "எடையை அளக்க"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do astronauts wear space suits?",
+    "question_ta": "விண்வெளி வீரர்கள் விண்வெளி உடைகள் ஏன் அணிகிறார்கள்?",
+    "options_en": ["To protect from vacuum and temperature", "To look professional", "To float", "To breathe oxygen only"],
+    "options_ta": ["வாயு வெற்றிடம் மற்றும் வெப்பத்திலிருந்து பாதுகாக்க", "தொழில்முறை தோற்றம் பெற", "மிதக்கும்", "ஆக்சிஜன் சுவாசிக்க மட்டும்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Intermediate",
+    "question_en": "Why do we see the sky blue during the day?",
+    "question_ta": "நாம் பகலிலான வானம் நீலமாக தோன்றுவது ஏன்?",
+    "options_en": ["Due to scattering of sunlight by air molecules", "Due to reflection from oceans", "Due to clouds", "Due to pollution"],
+    "options_ta": ["காற்று மூலக்கூறுகள் மூலம் சூரிய ஒளி பரவுவதால்", "கடலிலிருந்து பிரதிபலிப்பு காரணமாக", "மேகங்கள் காரணமாக", "மாசுபாடு காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "If two forces of 10 N each act on an object in opposite directions, what is the net force?",
+    "question_ta": "எதிர்பாராத திசைகளில் 10 நியூட்டன் இரண்டு விசைகள் பொருளுக்கு செயல்படின், நிகர விசை என்ன?",
+    "options_en": ["0 N", "10 N", "20 N", "5 N"],
+    "options_ta": ["0 N", "10 N", "20 N", "5 N"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why does a rainbow appear after rainfall?",
+    "question_ta": "மழை விழுந்த பின்னர் வானவில் ஏன் தோன்றுகிறது?",
+    "options_en": ["Refraction and dispersion of light", "Reflection from clouds", "Air pollution effect", "Evaporation of water"],
+    "options_ta": ["ஒளி உதிர்வு மற்றும் பரவல் காரணமாக", "மேகங்களில் பிரதிபலிப்பு காரணமாக", "காற்று மாசு விளைவாக", "நீர் ஆவியாகும் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "How does increasing the temperature of a gas affect its volume if pressure is constant?",
+    "question_ta": "வாயு வெப்பநிலை அதிகரித்தால் அழுத்தம் நிலையானால் அதன் அளவு எவ்வாறு இருக்கும்?",
+    "options_en": ["Volume increases", "Volume decreases", "Volume remains same", "Pressure decreases"],
+    "options_ta": ["அளவு அதிகரிக்கும்", "அளவு குறையும்", "அளவு மாறாது", "அழுத்தம் குறையும்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why is the nucleus positively charged?",
+    "question_ta": "நியூக்லியஸ் நேர்மறை மின்அமைப்புடையது ஏன்?",
+    "options_en": ["It contains protons", "It contains neutrons", "It contains electrons", "It contains photons"],
+    "options_ta": ["அதில் ப்ரோட்டான்கள் உள்ளன", "அதில் நியூட்ரான்கள் உள்ளன", "அதில் எலக்ட்ரான்கள் உள்ளன", "அதில் போட்டோன்கள் உள்ளன"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why do metals conduct electricity?",
+    "question_ta": "ஏன் உலோகங்கள் மின்சாரம் கடத்துகின்றன?",
+    "options_en": ["Free electrons move easily", "They are heavy", "They are shiny", "They are solid"],
+    "options_ta": ["இலவச எலக்ட்ரான்கள் சுலபமாக நகர்கின்றன", "அவை கனமானவை", "அவை பிரகாசமானவை", "அவை திடமானவை"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "What happens when a convex lens is used to focus sunlight on paper?",
+    "question_ta": "ஒரு கூம்பு லென்ஸ் சூரிய ஒளியை காகிதத்தில் மையப்படுத்தும் போது என்ன நடக்கும்?",
+    "options_en": ["Paper may burn", "Paper becomes wet", "Paper reflects light", "Nothing happens"],
+    "options_ta": ["காகிதம் எரியும்", "காகிதம் ஈரமாகும்", "காகிதம் ஒளியை பிரதிபலிக்கும்", "எதுவும் நடக்காது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why does ice float on water?",
+    "question_ta": "ஏன் பனி நீரில் மிதக்கிறது?",
+    "options_en": ["Density of ice is less than water", "Ice is cold", "Ice is heavy", "Water is liquid"],
+    "options_ta": ["பனியின் அடர்த்தி நீரைவிட குறைவாக உள்ளது", "பனி குளிராக உள்ளது", "பனி கனமாக உள்ளது", "நீர் திரவம்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why do we observe multiple images in a plane mirror array?",
+    "question_ta": "ஒரு சமநிலை கண்ணாடி வரிசையில் பல படங்களை ஏன் பார்க்கின்றோம்?",
+    "options_en": ["Multiple reflections occur", "Due to light absorption", "Due to lens effect", "Due to shadow formation"],
+    "options_ta": ["பல பிரதிபலிப்புகள் நிகழ்கின்றன", "ஒளி உறிஞ்சும் காரணமாக", "லென்ஸ் விளைவாக", "நிழல் உருவாக்கம் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why do we see lightning bolts as jagged lines?",
+    "question_ta": "மின்னல் கோடுகள் ஏன் மங்கிய கோடுகளாக தோன்றுகின்றன?",
+    "options_en": ["Due to path of least resistance in air", "Due to cloud shapes", "Due to observer angle", "Due to color dispersion"],
+    "options_ta": ["காற்றில் குறைந்த எதிர்ப்பு பாதையின் காரணமாக", "மேக வடிவங்கள் காரணமாக", "கண்காணிப்பாளர் கோணம் காரணமாக", "நிற பரவல் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "How does increasing surface area of a solid affect its rate of reaction?",
+    "question_ta": "ஒரு திடத்தின் மேற்பரப்புப் பரப்பை அதிகரித்தால் அதின் எதிர்வினை விகிதம் எப்படி பாதிக்கப்படுகிறது?",
+    "options_en": ["Reaction rate increases", "Reaction rate decreases", "Reaction stops", "Reaction rate remains same"],
+    "options_ta": ["எதிர்வினை விகிதம் அதிகரிக்கிறது", "எதிர்வினை விகிதம் குறைகிறது", "எதிர்வினை நிற்கிறது", "எதிர்வினை விகிதம் மாறாது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why does a pendulum eventually stop swinging?",
+    "question_ta": "ஒரு துலாபம் இறுதியில் ஏன் நகர்வதை நிறுத்துகிறது?",
+    "options_en": ["Due to friction and air resistance", "Due to gravity", "Due to length change", "Due to mass increase"],
+    "options_ta": ["உருக்க விசை மற்றும் காற்று எதிர்ப்பு காரணமாக", "ஈர்ப்பு விசை காரணமாக", "நீளம் மாறுதல் காரணமாக", "எடை அதிகரிப்பு காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why do we see a spoon bent in water but not outside?",
+    "question_ta": "நீர் உள்ளே ஒரு ஸ்பூன் சாய்ந்தது போல தோன்றுகிறது ஆனால் வெளியே இல்லை ஏன்?",
+    "options_en": ["Due to refraction of light", "Due to reflection", "Due to magnification", "Due to absorption"],
+    "options_ta": ["ஒளி உதிர்வு காரணமாக", "ஒளி பிரதிபலிப்பு காரணமாக", "பெரிதாக்கம் காரணமாக", "உறிஞ்சல் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why does boiling point of water increase at higher pressure?",
+    "question_ta": "உயர்ந்த அழுத்தத்தில் நீரின் கொதிக்கும் புள்ளி ஏன் அதிகரிக்கிறது?",
+    "options_en": ["Higher pressure resists vaporization", "Water heats faster", "Water density increases", "Atmosphere absorbs heat"],
+    "options_ta": ["உயர்ந்த அழுத்தம் ஆவியாக்கலை தடுக்கும்", "நீர் வேகமாக சூடாகும்", "நீர் அடர்த்தி அதிகரிக்கும்", "வானிலை வெப்பத்தை உறிஞ்சுகிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why is digital painting preferred over paper painting in some projects?",
+    "question_ta": "சில திட்டங்களில் டிஜிட்டல் ஓவியம் ஏன் காகித ஓவியத்தை விட முன்னுரிமை பெறுகிறது?",
+    "options_en": ["Easy editing and storage", "Looks better", "Faster drying", "Requires paint"],
+    "options_ta": ["சுலபமாக திருத்தம் மற்றும் சேமிப்பு", "நன்று தோற்றம்", "வேகமாக உலர்வு", "மூலம் நிறம் தேவை"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why does an electric bulb glow when current passes through it?",
+    "question_ta": "மின்சாரம் அதில் செல்லும் போது மின்விளக்கு ஏன் பிரகாசிக்கும்?",
+    "options_en": ["Filament heats up and emits light", "Electricity creates color", "Bulb stores energy", "Current increases pressure"],
+    "options_ta": ["ஃபிலாமெண்ட் சூடாகி ஒளி வெளியிடுகிறது", "மின்சாரம் நிறத்தை உருவாக்குகிறது", "விளக்கு சக்தியை சேமிக்கிறது", "ஓட்டம் அழுத்தத்தை அதிகரிக்கிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why do metals expand on heating?",
+    "question_ta": "உலோகங்கள் வெப்பப்படுத்தும் போது ஏன் விரிகிறது?",
+    "options_en": ["Particles move faster and occupy more space", "They melt", "They become lighter", "They change color"],
+    "options_ta": ["துகள்கள் வேகமாக நகர்ந்து அதிக இடம் பிடிக்கின்றன", "அவை கரையும்", "அவை எளிதாக இருக்கும்", "நிறம் மாறும்"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why do we see different phases of the Moon?",
+    "question_ta": "நாம் சந்திரனின் வேறுபட்ட கட்டங்களை ஏன் காண்கிறோம்?",
+    "options_en": ["Due to its position relative to Earth and Sun", "Due to atmosphere", "Due to clouds", "Due to tides"],
+    "options_ta": ["பூமி மற்றும் சூரியனுக்கு தொடர்பான அதன் நிலை காரணமாக", "காற்று காரணமாக", "மேகங்கள் காரணமாக", "அலைகள் காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "8",
+    "level": "Advanced",
+    "question_en": "Why does a solar cooker heat food faster on a sunny day?",
+    "question_ta": "சூரிய நாள் ஒரு சோலார் குக்கர் உணவை வேகமாக சூடாக்குகிறது ஏன்?",
+    "options_en": ["More sunlight is focused and trapped", "Air is hotter", "Food is dry", "Sun emits heat only at noon"],
+    "options_ta": ["மேலும் சூரிய ஒளி மையப்படுத்தப்பட்டு தடுக்கப்படுகிறது", "காற்று சூடாக உள்ளது", "உணவு உலர்ந்தது", "சூரியன் வெறும் மாலை நேரத்தில் வெப்பம் உமிழ்கிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "What are the three states of matter?",
+    "question_ta": "பொருளின் மூன்று நிலைகள் எவை?",
+    "options_en": ["Solid, Liquid, Gas", "Liquid, Gas, Plasma", "Solid, Plasma, Gas", "Liquid, Solid, Metal"],
+    "options_ta": ["திடம், திரவம், வாயு", "திரவம், வாயு, பிளாஸ்மா", "திடம், பிளாஸ்மா, வாயு", "திரவம், திடம், உலோகம்"],
+    "answer": 0
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which method is used to separate salt from seawater?",
+    "question_ta": "கடல்நீரிலிருந்து உப்பை பிரிக்க எந்த முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Filtration", "Evaporation", "Sedimentation", "Distillation"],
+    "options_ta": ["வடிகட்டி", "ஆவியாக்கம்", "அடைவு", "சுருக்கல்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "What is the chemical formula of water?",
+    "question_ta": "நீரின் வேதியியல் வாய்ப்பாடு எது?",
+    "options_en": ["O2", "CO2", "H2O", "NaCl"],
+    "options_ta": ["O2", "CO2", "H2O", "NaCl"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Who discovered the nucleus of an atom?",
+    "question_ta": "அணுவின் நியூக்ளியஸை யார் கண்டுபிடித்தார்?",
+    "options_en": ["J.J. Thomson", "Rutherford", "Bohr", "Dalton"],
+    "options_ta": ["ஜே.ஜே. தாம்சன்", "ரதர்ஃபோர்டு", "போர்", "டால்டன்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "What is the basic structural and functional unit of life?",
+    "question_ta": "வாழ்க்கையின் அடிப்படை கட்டமைப்பு மற்றும் செயல்பாட்டு அலகு எது?",
+    "options_en": ["Tissue", "Cell", "Organ", "Organ system"],
+    "options_ta": ["திசு", "செல்", "உறுப்பு", "உறுப்பு அமைப்பு"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which pigment in plants is responsible for photosynthesis?",
+    "question_ta": "தாவரங்களில் ஒளிச்சேர்க்கைக்கு பொறுப்பான நிறமி எது?",
+    "options_en": ["Carotene", "Chlorophyll", "Xanthophyll", "Anthocyanin"],
+    "options_ta": ["கரோட்டின்", "குளோரோபில்", "ஜாந்தோபில்", "ஆந்தோசயனின்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which tissue connects bones to bones?",
+    "question_ta": "எலும்புகளை எலும்புகளுடன் இணைக்கும் திசு எது?",
+    "options_en": ["Tendons", "Ligaments", "Cartilage", "Muscles"],
+    "options_ta": ["நரம்புத்தண்டு", "சுவட்டு", "எலும்புத்தண்டு", "தசைகள்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "What is the SI unit of speed?",
+    "question_ta": "வேகத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["m/s", "m/s²", "Newton", "Joule"],
+    "options_ta": ["மீ/வ", "மீ/வ²", "நியூட்டன்", "ஜூல்"],
+    "answer": 0
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which force pulls objects towards Earth?",
+    "question_ta": "பொருட்களை பூமியினை நோக்கி இழுக்கும் விசை எது?",
+    "options_en": ["Friction", "Magnetism", "Gravity", "Electric force"],
+    "options_ta": ["உராய்வு", "காந்தம்", "இயற்பியல் ஈர்ப்பு", "மின்விசை"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Who discovered the law of gravitation?",
+    "question_ta": "ஈர்ப்பு விசை விதியை யார் கண்டுபிடித்தார்?",
+    "options_en": ["Einstein", "Newton", "Galileo", "Kepler"],
+    "options_ta": ["ஐன்ஸ்டீன்", "நியூட்டன்", "கலிலியோ", "கெப்ளர்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "What is the SI unit of work?",
+    "question_ta": "வேலையின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Joule", "Newton", "Watt", "Pascal"],
+    "options_ta": ["ஜூல்", "நியூட்டன்", "வாட்", "பாஸ்கல்"],
+    "answer": 0
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which wave is responsible for sound propagation?",
+    "question_ta": "ஒலி பரவுவதற்கு எந்த அலை பொறுப்பாக உள்ளது?",
+    "options_en": ["Transverse wave", "Longitudinal wave", "Electromagnetic wave", "Stationary wave"],
+    "options_ta": ["அடித்தட்டு அலை", "நீளவியல் அலை", "மின்காந்த அலை", "நிலைய அலை"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which gas is known as 'ozone'?",
+    "question_ta": "எந்த வாயு 'ஓசோன்' என அழைக்கப்படுகிறது?",
+    "options_en": ["O2", "O3", "CO2", "N2"],
+    "options_ta": ["O2", "O3", "CO2", "N2"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which disease is caused by deficiency of Vitamin C?",
+    "question_ta": "வைட்டமின் C பற்றாக்குறையால் ஏற்படும் நோய் எது?",
+    "options_en": ["Rickets", "Scurvy", "Goitre", "Anaemia"],
+    "options_ta": ["ரிக்கெட்ஸ்", "ஸ்கர்வி", "காய்டர்", "அரத்த சோகை"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which nutrient is known as body-building food?",
+    "question_ta": "உடல் கட்டுமான உணவாக அறியப்படும் ஊட்டச்சத்து எது?",
+    "options_en": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+    "options_ta": ["கார்போஹைட்ரேட்டுகள்", "புரதங்கள்", "கொழுப்புகள்", "வைட்டமின்கள்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "What is the SI unit of electric current?",
+    "question_ta": "மின்சார ஓட்டத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Volt", "Ampere", "Ohm", "Coulomb"],
+    "options_ta": ["வோல்ட்", "ஆம்பியர்", "ஓம்", "கூலோம்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which natural resource is called 'fossil fuel'?",
+    "question_ta": "‘பாறை எரிபொருள்’ என அழைக்கப்படும் இயற்கை வளம் எது?",
+    "options_en": ["Coal", "Water", "Air", "Forest"],
+    "options_ta": ["நிலக்கரி", "தண்ணீர்", "காற்று", "காடு"],
+    "answer": 0
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which microorganism causes tuberculosis?",
+    "question_ta": "காசநோயை ஏற்படுத்தும் நுண்ணுயிரி எது?",
+    "options_en": ["Virus", "Fungus", "Bacterium", "Protozoa"],
+    "options_ta": ["வைரஸ்", "பூஞ்சை", "பாக்டீரியா", "புரோட்டோசோவா"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which process increases food production using high-yielding varieties?",
+    "question_ta": "அதிக விளைச்சல் தரும் வகைகளைப் பயன்படுத்தி உணவு உற்பத்தியை அதிகரிக்கும் செயல்முறை எது?",
+    "options_en": ["Irrigation", "Green Revolution", "Manuring", "Storage"],
+    "options_ta": ["நீர்ப்பாசனம்", "பசுமைப் புரட்சி", "உரமிடல்", "சேமிப்பு"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Beginner",
+    "question_en": "Which crop improves soil fertility by fixing nitrogen?",
+    "question_ta": "நைட்ரஜனை உறிஞ்சி மண் வளத்தை மேம்படுத்தும் பயிர் எது?",
+    "options_en": ["Wheat", "Rice", "Pulses", "Sugarcane"],
+    "options_ta": ["கோதுமை", "அரிசி", "பருப்பு", "கரும்பு"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Why does ice float on water?",
+    "question_ta": "ஐஸ் ஏன் நீரில் மிதக்கிறது?",
+    "options_en": ["Because ice is heavier", "Because density of ice is less than water", "Because of air bubbles", "Because it dissolves in water"],
+    "options_ta": ["ஐஸ் கனமாக இருப்பதால்", "ஐஸின் அடர்த்தி நீரைவிட குறைவதால்", "காற்றுக் குமிழிகள் காரணமாக", "நீரில் கரைவதால்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which separation method is used to separate dyes in ink?",
+    "question_ta": "மையில் உள்ள நிறங்களைப் பிரிக்க எந்த பிரிப்பு முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Distillation", "Chromatography", "Filtration", "Centrifugation"],
+    "options_ta": ["சுருக்கல்", "குரோமடோகிராபி", "வடிகட்டி", "சென்ட்ரிஃப்யூஜ்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which law explains that mass can neither be created nor destroyed in a chemical reaction?",
+    "question_ta": "வேதியியல் வினையில் பருமன் உருவாக்கப்படவோ அழிக்கப்படவோ முடியாது என்று விளக்கும் விதி எது?",
+    "options_en": ["Law of Constant Proportion", "Law of Conservation of Mass", "Boyle's Law", "Charles' Law"],
+    "options_ta": ["மாறாத விகித விதி", "பருமன் நிலைத்தன்மை விதி", "பாய்ல் விதி", "சார்ல்ஸ் விதி"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which particle in an atom has a negative charge?",
+    "question_ta": "அணுவில் எது எதிர்மறை மின்சாரத்தை உடையது?",
+    "options_en": ["Proton", "Electron", "Neutron", "Nucleus"],
+    "options_ta": ["ப்ரோட்டான்", "எலக்ட்ரான்", "நியூட்ரான்", "நியூக்ளியஸ்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which organelle is responsible for protein synthesis?",
+    "question_ta": "புரத உற்பத்திக்கு பொறுப்பான உட்கரு எது?",
+    "options_en": ["Mitochondria", "Ribosome", "Chloroplast", "Golgi body"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "ரைபோசோம்", "குளோரோபிளாஸ்ட்", "கோல்ஜி உடல்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which plant tissue transports water in plants?",
+    "question_ta": "தாவரங்களில் தண்ணீரை கடத்தும் திசு எது?",
+    "options_en": ["Phloem", "Xylem", "Parenchyma", "Collenchyma"],
+    "options_ta": ["புளோயம்", "ஜைலம்", "பாரென்கைமா", "கோலென்கைமா"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Why do passengers fall forward when a moving bus suddenly stops?",
+    "question_ta": "நடமாடும் பஸ் திடீரென நிற்கும்போது பயணிகள் ஏன் முன்னால் சாய்கிறார்கள்?",
+    "options_en": ["Due to inertia", "Due to friction", "Due to gravity", "Due to air resistance"],
+    "options_ta": ["செயல்நிலை காரணமாக", "உராய்வு காரணமாக", "இயற்பியல் ஈர்ப்பு காரணமாக", "காற்று எதிர்ப்பு காரணமாக"],
+    "answer": 0
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which force is responsible for the revolution of planets around the Sun?",
+    "question_ta": "சூரியனைச் சுற்றி கோள்கள் சுழலுவதற்குக் காரணமான விசை எது?",
+    "options_en": ["Magnetic force", "Gravitational force", "Centrifugal force", "Nuclear force"],
+    "options_ta": ["காந்த விசை", "இயற்பியல் ஈர்ப்பு விசை", "விலகும் விசை", "அணு விசை"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "What is the SI unit of power?",
+    "question_ta": "சக்தியின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Watt", "Joule", "Newton", "Volt"],
+    "options_ta": ["வாட்", "ஜூல்", "நியூட்டன்", "வோல்ட்"],
+    "answer": 0
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Why does sound travel faster in solids than in gases?",
+    "question_ta": "ஒலி வாயுக்களைவிட திடங்களில் வேகமாகச் செல்லக் காரணம் என்ன?",
+    "options_en": ["Because solids are lighter", "Because particles are closer in solids", "Because gases have more energy", "Because solids vibrate more"],
+    "options_ta": ["திடங்கள் எளிதானவை என்பதால்", "திடங்களில் துகள்கள் நெருக்கமாக இருப்பதால்", "வாயுக்களுக்கு அதிக ஆற்றல் இருப்பதால்", "திடங்கள் அதிகம் அதிர்வதால்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which gas protects us from harmful UV rays?",
+    "question_ta": "தீங்கு விளைவிக்கும் அல்்ட்ரா வயலெட் கதிர்களிலிருந்து எதை காக்கும் வாயு?",
+    "options_en": ["Oxygen", "Ozone", "Carbon dioxide", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "ஓசோன்", "கார்பன் டையாக்சைடு", "நைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which disease is caused by deficiency of iodine?",
+    "question_ta": "அயோடின் பற்றாக்குறையால் ஏற்படும் நோய் எது?",
+    "options_en": ["Anaemia", "Rickets", "Goitre", "Scurvy"],
+    "options_ta": ["அரத்தசோகை", "ரிக்கெட்ஸ்", "காய்டர்", "ஸ்கர்வி"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which nutrient mainly provides energy to our body?",
+    "question_ta": "எந்த ஊட்டச்சத்து நம் உடலுக்கு முதன்மையாக ஆற்றல் வழங்குகிறது?",
+    "options_en": ["Proteins", "Carbohydrates", "Vitamins", "Minerals"],
+    "options_ta": ["புரதங்கள்", "கார்போஹைட்ரேட்டுகள்", "வைட்டமின்கள்", "தாதுக்கள்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Why are nitrogen-fixing bacteria important for soil?",
+    "question_ta": "நைட்ரஜன் நிலைநிறுத்தும் பாக்டீரியாக்கள் மண்ணுக்கு ஏன் முக்கியமானவை?",
+    "options_en": ["They decompose waste", "They provide oxygen", "They increase nitrogen content", "They reduce acidity"],
+    "options_ta": ["அவை கழிவுகளை சிதைக்கின்றன", "அவை ஆக்சிஜனை வழங்குகின்றன", "அவை நைட்ரஜன் அளவை அதிகரிக்கின்றன", "அவை அமிலத்தன்மையை குறைக்கின்றன"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Why are light and sound considered forms of energy?",
+    "question_ta": "ஒளியும் ஒலியும் ஆற்றலின் வடிவங்களாகக் கருதப்படுவதற்குக் காரணம் என்ன?",
+    "options_en": ["Because they are visible", "Because they can do work", "Because they are fast", "Because they are vibrations"],
+    "options_ta": ["அவை காணக்கூடியவை என்பதால்", "அவை வேலை செய்யக்கூடியவை என்பதால்", "அவை வேகமானவை என்பதால்", "அவை அதிர்வுகள் என்பதால்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Why do farmers add manure to the soil?",
+    "question_ta": "விவசாயிகள் ஏன் மண்ணில் உரத்தை சேர்க்கின்றனர்?",
+    "options_en": ["To kill pests", "To increase fertility", "To reduce water", "To dry the soil"],
+    "options_ta": ["பூச்சிகளை கொல்ல", "மண் வளத்தை அதிகரிக்க", "நீரை குறைக்க", "மண்ணை உலர்க்க"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Which property of metals makes them good conductors of electricity?",
+    "question_ta": "உலோகங்களை நல்ல மின்கடத்திகள் ஆக்கும் பண்பு எது?",
+    "options_en": ["Free electrons", "High density", "Shiny surface", "Hardness"],
+    "options_ta": ["இலவச எலக்ட்ரான்கள்", "அதிக அடர்த்தி", "பளபளப்பான மேற்பரப்பு", "கடினத்தன்மை"],
+    "answer": 0
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Why does a stone thrown upwards fall back to Earth?",
+    "question_ta": "மேலே எறியப்பட்ட கல் ஏன் மீண்டும் பூமிக்குத் திரும்புகிறது?",
+    "options_en": ["Because of inertia", "Because of gravity", "Because of air", "Because of rotation of Earth"],
+    "options_ta": ["செயல்நிலை காரணமாக", "இயற்பியல் ஈர்ப்பு காரணமாக", "காற்று காரணமாக", "பூமி சுழற்சி காரணமாக"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Intermediate",
+    "question_en": "Why do astronauts feel weightless in space?",
+    "question_ta": "விண்வெளியில் விண்வெளி வீரர்கள் எடை இல்லாமல் உணரக் காரணம் என்ன?",
+    "options_en": ["No air", "No gravity", "Microgravity condition", "Fast speed"],
+    "options_ta": ["காற்று இல்லாததால்", "ஈர்ப்பு விசை இல்லாததால்", "சிறிய ஈர்ப்பு நிலை காரணமாக", "அதிக வேகம் காரணமாக"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which law explains the inheritance of traits from parents to offspring?",
+    "question_ta": "பெற்றோரிலிருந்து சந்ததியினருக்கு பண்புகள் மரபாக செல்லும் விதியை விளக்கும் சட்டம் எது?",
+    "options_en": ["Darwin's Theory", "Mendel's Laws", "Newton's Law", "Boyle's Law"],
+    "options_ta": ["டார்வின் கோட்பாடு", "மென்டல் விதிகள்", "நியூட்டன் விதி", "பாய்ல் விதி"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "A car accelerates from rest at 3 m/s² for 4 seconds. What is its final velocity?",
+    "question_ta": "ஒரு கார் 3 மீ/வ² துரிதத்தில் 4 விநாடிகள் ஓய்விலிருந்து துவங்குகிறது. அதன் இறுதி வேகம் என்ன?",
+    "options_en": ["10 m/s", "12 m/s", "15 m/s", "20 m/s"],
+    "options_ta": ["10 மீ/வ", "12 மீ/வ", "15 மீ/வ", "20 மீ/வ"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which separation technique is used in petroleum refineries?",
+    "question_ta": "பெட்ரோலிய தொழிற்சாலைகளில் எந்த பிரிப்பு முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Filtration", "Fractional distillation", "Chromatography", "Sedimentation"],
+    "options_ta": ["வடிகட்டி", "பகுதி சுருக்கல்", "குரோமடோகிராபி", "அடைவு"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "If 36 g of water (H2O) is formed, how many moles of water are produced? (Molar mass of H2O = 18 g/mol)",
+    "question_ta": "36 கிராம் நீர் (H2O) உருவானால், எத்தனை மோல்கள் நீர் உற்பத்தியாகிறது? (H2O வின் மோலர் நிறை = 18 g/mol)",
+    "options_en": ["1 mole", "2 moles", "3 moles", "4 moles"],
+    "options_ta": ["1 மோல்", "2 மோல்கள்", "3 மோல்கள்", "4 மோல்கள்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which part of the human brain controls balance and coordination?",
+    "question_ta": "மனித மூளையின் எந்த பகுதி சமநிலையையும் ஒருங்கிணைப்பையும் கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "options_ta": ["முன்மூளை", "சிறுமூளை", "மூளைத்தண்டு", "ஹைப்போத்தாலாமஸ்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "An object of mass 10 kg is lifted to a height of 5 m. (g = 9.8 m/s²) What is the potential energy gained?",
+    "question_ta": "10 கிலோ பருமனுடைய பொருள் 5 மீ உயரத்திற்கு உயர்த்தப்படுகிறது. (g = 9.8 மீ/வ²) அது பெறும் நிலை ஆற்றல் என்ன?",
+    "options_en": ["250 J", "490 J", "500 J", "980 J"],
+    "options_ta": ["250 ஜூல்", "490 ஜூல்", "500 ஜூல்", "980 ஜூல்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which organelle is called the 'suicidal bag' of the cell?",
+    "question_ta": "செலின் 'தற்கொலைப்பை' என்று அழைக்கப்படும் உட்கரு எது?",
+    "options_en": ["Mitochondria", "Lysosome", "Ribosome", "Golgi body"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "லைசோசோம்", "ரைபோசோம்", "கோல்ஜி உடல்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "A sound wave has a wavelength of 1.7 m and frequency of 200 Hz. What is the speed of sound?",
+    "question_ta": "ஒரு ஒலி அலையின் அலைநீளம் 1.7 மீ மற்றும் அதிர்வெண் 200 ஹெர்ட்ஸ். ஒலியின் வேகம் என்ன?",
+    "options_en": ["240 m/s", "300 m/s", "340 m/s", "400 m/s"],
+    "options_ta": ["240 மீ/வ", "300 மீ/வ", "340 மீ/வ", "400 மீ/வ"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which plant hormone is responsible for cell elongation?",
+    "question_ta": "செல் நீளத்திற்கு பொறுப்பான தாவர ஹார்மோன் எது?",
+    "options_en": ["Cytokinin", "Auxin", "Gibberellin", "Ethylene"],
+    "options_ta": ["சைடோகைனின்", "ஆக்சின்", "கிபெரெலின்", "எதிலீன்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which layer of the atmosphere contains the ozone layer?",
+    "question_ta": "ஓசோன் அடுக்கு எந்த வளிமண்டல அடுக்கில் உள்ளது?",
+    "options_en": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "options_ta": ["காற்றுப்படலம்", "அடுக்குப்படலம்", "இடைப்படலம்", "வெப்பப்படலம்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which part of the cell is semi-permeable and controls entry and exit of substances?",
+    "question_ta": "செலின் எந்த பகுதி பாதி ஊடுருவக்கூடியது மற்றும் பொருட்களின் நுழைவு, வெளியேற்றத்தை கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cell wall", "Cytoplasm", "Plasma membrane", "Nucleus"],
+    "options_ta": ["செல் சுவர்", "செல்ததிப்பு", "பிளாஸ்மா சவ்வு", "நியூக்ளியஸ்"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "If an atom has 11 protons and 12 neutrons, what is its mass number?",
+    "question_ta": "ஒரு அணுவில் 11 ப்ரோட்டான்களும் 12 நியூட்ரான்களும் இருந்தால், அதன் பருமன் எண் என்ன?",
+    "options_en": ["11", "12", "22", "23"],
+    "options_ta": ["11", "12", "22", "23"],
+    "answer": 3
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which scientist proposed the planetary model of the atom?",
+    "question_ta": "அணுவின் கோள மாடலை முன்வைத்த விஞ்ஞானி யார்?",
+    "options_en": ["Dalton", "Rutherford", "Bohr", "Chadwick"],
+    "options_ta": ["டால்டன்", "ரதர்ஃபோர்டு", "போர்", "சாட்விக்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "What is the function of guard cells in plants?",
+    "question_ta": "தாவரங்களில் காவலர் செல்களின் பணி என்ன?",
+    "options_en": ["Transport food", "Open and close stomata", "Store starch", "Provide strength"],
+    "options_ta": ["உணவு கடத்தல்", "உதிர்வழியைத் திறந்து மூடுதல்", "மாவை சேமித்தல்", "வலிமை வழங்குதல்"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "An object is moving with velocity 10 m/s. If it has mass 2 kg, what is its kinetic energy?",
+    "question_ta": "ஒரு பொருள் 10 மீ/வ வேகத்தில் செல்கிறது. அதன் பருமன் 2 கிலோ என்றால், அதன் இயக்க ஆற்றல் என்ன?",
+    "options_en": ["50 J", "75 J", "100 J", "150 J"],
+    "options_ta": ["50 ஜூல்", "75 ஜூல்", "100 ஜூல்", "150 ஜூல்"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which organ in the human body purifies blood?",
+    "question_ta": "மனித உடலில் இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Heart", "Liver", "Kidney", "Lungs"],
+    "options_ta": ["இதயம்", "கல்லீரல்", "சிறுநீரகம்", "நுரையீரல்"],
+    "answer": 2
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which energy transformation takes place in a microphone?",
+    "question_ta": "மைக்ரோஃபோனில் எந்த ஆற்றல் மாற்றம் நிகழ்கிறது?",
+    "options_en": ["Electrical to sound", "Sound to electrical", "Light to electrical", "Mechanical to light"],
+    "options_ta": ["மின்சாரம் முதல் ஒலி", "ஒலி முதல் மின்சாரம்", "ஒளி முதல் மின்சாரம்", "இயந்திரம் முதல் ஒளி"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Which disease is spread by Anopheles mosquito?",
+    "question_ta": "அனோஃபிலிஸ் கொசுவால் பரவும் நோய் எது?",
+    "options_en": ["Dengue", "Malaria", "Cholera", "Typhoid"],
+    "options_ta": ["டெங்கு", "குடல்வெப்பம்", "காலரா", "டைபாய்டு"],
+    "answer": 1
+  },
+  {
+    "grade": "9",
+    "level": "Advanced",
+    "question_en": "Why is photosynthesis considered the most important biochemical process on Earth?",
+    "question_ta": "பசுமையாக்கம் பூமியில் மிகவும் முக்கியமான உயிர்வேதியியல் செயல்முறையாகக் கருதப்படுவதற்குக் காரணம் என்ன?",
+    "options_en": ["It produces food and oxygen", "It absorbs nitrogen", "It produces carbon dioxide", "It consumes oxygen"],
+    "options_ta": ["அது உணவும் ஆக்சிஜனையும் உற்பத்தி செய்கிறது", "அது நைட்ரஜனை உறிஞ்சுகிறது", "அது கார்பன் டையாக்சைடு உற்பத்தி செய்கிறது", "அது ஆக்சிஜனை பயன்படுத்துகிறது"],
+    "answer": 0
+  },
+   {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "What is the SI unit of electric current?",
+    "question_ta": "மின்சார ஓட்டத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Volt", "Ampere", "Ohm", "Coulomb"],
+    "options_ta": ["வோல்ட்", "ஆம்பியர்", "ஓம்", "கூலோம்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "A current of 2 A flows through a wire for 5 seconds. How much charge flows?",
+    "question_ta": "ஒரு கம்பியில் 2 A மினோட்டம் 5 விநாடிகள் பாய்கிறது. எவ்வளவு மின்னூட்டம் பாய்கிறது?",
+    "options_en": ["2 C", "5 C", "10 C", "20 C"],
+    "options_ta": ["2 கூலோம்", "5 கூலோம்", "10 கூலோம்", "20 கூலோம்"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which acid is present in the stomach?",
+    "question_ta": "வயிற்றில் எந்த அமிலம் உள்ளது?",
+    "options_en": ["Nitric acid", "Sulphuric acid", "Hydrochloric acid", "Carbonic acid"],
+    "options_ta": ["நைட்ரிக் அமிலம்", "சல்ப்யூரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "கார்போனிக் அமிலம்"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "If a 60 W bulb glows for 1 hour, how much energy is consumed?",
+    "question_ta": "60 வாட் விளக்கு 1 மணி நேரம் எரிந்தால், எவ்வளவு ஆற்றல் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["60 J", "600 J", "216000 J", "3600 J"],
+    "options_ta": ["60 ஜூல்", "600 ஜூல்", "216000 ஜூல்", "3600 ஜூல்"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which part of the plant carries food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை கடத்துகிறது?",
+    "options_en": ["Xylem", "Phloem", "Root", "Chloroplast"],
+    "options_ta": ["ஜைலம்", "புளோயம்", "வேர்", "குளோரோபிளாஸ்ட்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "What is the chemical formula of washing soda?",
+    "question_ta": "வாட்டர் சோடாவின் வேதியியல் வாய்ப்பாடு என்ன?",
+    "options_en": ["Na2CO3.10H2O", "NaHCO3", "CaCO3", "NaCl"],
+    "options_ta": ["Na2CO3.10H2O", "NaHCO3", "CaCO3", "NaCl"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "A concave mirror forms an image 20 cm away when the object is 30 cm away. Find the focal length.",
+    "question_ta": "ஒரு உள்ளிழுக்கும் கண்ணாடி 30 செ.மீ தூரத்தில் பொருள் இருக்கும்போது, 20 செ.மீ தூரத்தில் உருவம் தருகிறது. அதன் குவியநிலை என்ன?",
+    "options_en": ["10 cm", "12 cm", "15 cm", "20 cm"],
+    "options_ta": ["10 செ.மீ", "12 செ.மீ", "15 செ.மீ", "20 செ.மீ"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which gas is released during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது எந்த வாயு வெளியிடப்படுகிறது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டையாக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "What is the universal solvent?",
+    "question_ta": "பொதுவான கரைப்பான் எது?",
+    "options_en": ["Alcohol", "Water", "Acid", "Salt"],
+    "options_ta": ["ஆல்கஹால்", "தண்ணீர்", "அமிலம்", "உப்பு"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "If resistance is 5 ohm and current is 2 A, what is the voltage? (V = IR)",
+    "question_ta": "எதிர்ப்பு 5 ஓம் மற்றும் மினோட்டம் 2 A என்றால் மின்னழுத்தம் என்ன? (V = IR)",
+    "options_en": ["2 V", "5 V", "10 V", "15 V"],
+    "options_ta": ["2 வோல்ட்", "5 வோல்ட்", "10 வோல்ட்", "15 வோல்ட்"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which acid is found in lemon?",
+    "question_ta": "எலுமிச்சையில் எந்த அமிலம் உள்ளது?",
+    "options_en": ["Tartaric acid", "Acetic acid", "Citric acid", "Lactic acid"],
+    "options_ta": ["டார்டாரிக் அமிலம்", "அசிட்டிக் அமிலம்", "சிட்ரிக் அமிலம்", "லாக்டிக் அமிலம்"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "What is the speed of light in vacuum?",
+    "question_ta": "வெற்றிடத்தில் ஒளியின் வேகம் என்ன?",
+    "options_en": ["3 × 10^6 m/s", "3 × 10^7 m/s", "3 × 10^8 m/s", "3 × 10^9 m/s"],
+    "options_ta": ["3 × 10^6 மீ/வ", "3 × 10^7 மீ/வ", "3 × 10^8 மீ/வ", "3 × 10^9 மீ/வ"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "A force of 10 N moves an object 2 m. What is the work done?",
+    "question_ta": "10 N விசை ஒரு பொருளை 2 மீ நகர்த்துகிறது. செய்யப்படும் வேலை என்ன?",
+    "options_en": ["5 J", "10 J", "15 J", "20 J"],
+    "options_ta": ["5 ஜூல்", "10 ஜூல்", "15 ஜூல்", "20 ஜூல்"],
+    "answer": 3
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which part of the human eye controls the amount of light entering?",
+    "question_ta": "மனிதக் கண்களில் ஒளி நுழைவதை கட்டுப்படுத்தும் பகுதி எது?",
+    "options_en": ["Cornea", "Pupil", "Lens", "Retina"],
+    "options_ta": ["கார்னியா", "ப்யூபில்", "லென்ஸ்", "ரெட்டினா"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which type of lens is used to correct myopia?",
+    "question_ta": "குறுக்குப் பார்வையை சரிசெய்ய எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Convex lens", "Concave lens", "Cylindrical lens", "Plano lens"],
+    "options_ta": ["வெளிவிழுக்கும் லென்ஸ்", "உள்ளிழுக்கும் லென்ஸ்", "உருளை லென்ஸ்", "பிளானோ லென்ஸ்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "If a solution has pH = 2, it is?",
+    "question_ta": "ஒரு கரைசலின் pH = 2 என்றால் அது என்ன?",
+    "options_en": ["Neutral", "Strongly acidic", "Weakly acidic", "Basic"],
+    "options_ta": ["நடுநிலை", "வலுவான அமிலம்", "பலவீன அமிலம்", "அடிப்படை"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which gas is used in the preparation of soda water?",
+    "question_ta": "சோடா வாட்டர் தயாரிப்பில் எந்த வாயு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டையாக்சைடு", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which part of the human ear helps in maintaining balance?",
+    "question_ta": "மனிதக் காதின் எந்த பகுதி சமநிலையை பராமரிக்க உதவுகிறது?",
+    "options_en": ["Cochlea", "Eardrum", "Semicircular canals", "Auditory nerve"],
+    "options_ta": ["கோக்ளியா", "காதுத்தட்டு", "அரையசை குழாய்கள்", "கேட்புணர்வு நரம்பு"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Beginner",
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் திரவமாக உள்ள உலோகம் எது?",
+    "options_en": ["Iron", "Mercury", "Aluminium", "Copper"],
+    "options_ta": ["இரும்பு", "பாரா", "அலுமினியம்", "செம்பு"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why does the sky appear blue?",
+    "question_ta": "வானம் ஏன் நீலமாகத் தெரிகிறது?",
+    "options_en": ["Due to scattering of light", "Due to reflection", "Due to absorption", "Due to refraction"],
+    "options_ta": ["ஒளி சிதறலால்", "பிரதிபலிப்பால்", "உறிஞ்சுதலால்", "விலகுதலால்"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Which type of chemical reaction is photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கை எந்த வகை வேதியியல் வினை?",
+    "options_en": ["Exothermic", "Endothermic", "Neutralization", "Displacement"],
+    "options_ta": ["வெப்பவிடும்", "வெப்பஉள்வாங்கும்", "நடுநிலைப்படுத்தல்", "இடம்பெயர்வு"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Which part of the plant takes in carbon dioxide during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது தாவரத்தின் எந்த பகுதி கார்பன் டையாக்சைடு உறிஞ்சுகிறது?",
+    "options_en": ["Stomata", "Roots", "Xylem", "Chloroplast"],
+    "options_ta": ["உதிர்வழி", "வேர்", "ஜைலம்", "குளோரோபிளாஸ்ட்"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why does a current carrying conductor produce a magnetic field?",
+    "question_ta": "மினோட்டம் பாயும் கம்பி ஏன் காந்த புலத்தை உருவாக்குகிறது?",
+    "options_en": ["Due to electric force", "Due to moving charges", "Due to attraction", "Due to repulsion"],
+    "options_ta": ["மின்சார விசை காரணமாக", "நகரும் மின்சுமை காரணமாக", "ஈர்ப்பு காரணமாக", "விலக்கு காரணமாக"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why does rusting of iron occur faster in coastal areas?",
+    "question_ta": "கரையோரப் பகுதிகளில் இரும்பு வேகமாகச் சுருங்குவதற்குக் காரணம் என்ன?",
+    "options_en": ["Presence of CO2", "High temperature", "High moisture and salt", "Lack of oxygen"],
+    "options_ta": ["கார்பன் டையாக்சைடு இருப்பதால்", "அதிக வெப்பநிலை", "அதிக ஈரப்பதம் மற்றும் உப்பு", "ஆக்சிஜன் இல்லாததால்"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Which part of the eye helps in focusing objects at different distances?",
+    "question_ta": "கண்களில் வெவ்வேறு தூரங்களில் உள்ள பொருட்களைத் தெளிவாகப் பார்க்க உதவும் பகுதி எது?",
+    "options_en": ["Cornea", "Lens", "Pupil", "Retina"],
+    "options_ta": ["கார்னியா", "லென்ஸ்", "ப்யூபில்", "ரெட்டினா"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why are metals good conductors of electricity?",
+    "question_ta": "உலோகங்கள் ஏன் நல்ல மின்கடத்திகள்?",
+    "options_en": ["Free electrons", "High density", "Shiny surface", "Hardness"],
+    "options_ta": ["இலவச எலக்ட்ரான்கள்", "அதிக அடர்த்தி", "பளபளப்பான மேற்பரப்பு", "கடினத்தன்மை"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why does refraction occur when light enters from air to water?",
+    "question_ta": "ஒளி காற்றிலிருந்து நீருக்குள் செல்லும்போது ஏன் விலகுகிறது?",
+    "options_en": ["Change in medium density", "Change in speed of light", "Change in wavelength", "All of the above"],
+    "options_ta": ["மூலத்தின் அடர்த்தி மாறுவதால்", "ஒளியின் வேகம் மாறுவதால்", "அலைநீளம் மாறுவதால்", "மேலே உள்ள அனைத்தும்"],
+    "answer": 3
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Which reaction is responsible for release of energy in cells?",
+    "question_ta": "செல்களில் ஆற்றலை வெளியிடக் காரணமான வினை எது?",
+    "options_en": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
+    "options_ta": ["சுவாசம்", "ஒளிச்சேர்க்கை", "காய்ச்சல்", "செரிமானம்"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why does a rainbow appear after rain?",
+    "question_ta": "மழைக்குப் பிறகு ஏன் வானவில் தோன்றுகிறது?",
+    "options_en": ["Reflection of light", "Refraction and dispersion of light", "Scattering of light", "Absorption of light"],
+    "options_ta": ["ஒளியின் பிரதிபலிப்பு", "ஒளியின் விலக்கு மற்றும் சிதறல்", "ஒளி சிதறல்", "ஒளி உறிஞ்சுதல்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why are decomposers important in an ecosystem?",
+    "question_ta": "ஒரு உயிர்க்கோளத்தில் சிதைவூக்கிகள் ஏன் முக்கியமானவை?",
+    "options_en": ["They produce food", "They recycle nutrients", "They give oxygen", "They fix nitrogen"],
+    "options_ta": ["அவை உணவை உற்பத்தி செய்கின்றன", "அவை ஊட்டச்சத்துக்களை மறுசுழற்சி செய்கின்றன", "அவை ஆக்சிஜனை வழங்குகின்றன", "அவை நைட்ரஜனை நிலைநிறுத்துகின்றன"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why does the resistance of a conductor increase with temperature?",
+    "question_ta": "வெப்பநிலை அதிகரிக்கும்போது ஓட்டியின் எதிர்ப்பு ஏன் அதிகரிக்கிறது?",
+    "options_en": ["Electrons move faster", "More collisions of electrons", "Less current", "Change in length"],
+    "options_ta": ["எலக்ட்ரான்கள் வேகமாக நகர்கின்றன", "எலக்ட்ரான்களின் அதிக மோதல்கள்", "குறைந்த மினோட்டம்", "நீளம் மாறுகிறது"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Which chemical is used in black and white photography?",
+    "question_ta": "கருப்பு வெள்ளை புகைப்படத்தில் எந்த வேதிப்பொருள் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Silver nitrate", "Sodium chloride", "Magnesium sulphate", "Copper sulphate"],
+    "options_ta": ["வெள்ளி நைட்ரேட்", "சோடியம் குளோரைடு", "மக்னீசியம் சல்பேட்", "செம்பு சல்பேட்"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why is ozone layer important for life on Earth?",
+    "question_ta": "ஓசோன் அடுக்கு பூமியில் உயிர்களுக்கு ஏன் முக்கியமானது?",
+    "options_en": ["It absorbs UV rays", "It reflects sunlight", "It gives oxygen", "It reduces temperature"],
+    "options_ta": ["அது அல்்ட்ரா வயலெட் கதிர்களை உறிஞ்சுகிறது", "அது சூரிய ஒளியை பிரதிபலிக்கிறது", "அது ஆக்சிஜன் வழங்குகிறது", "அது வெப்பநிலையை குறைக்கிறது"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why do plants look green?",
+    "question_ta": "தாவரங்கள் ஏன் பச்சையாகத் தெரிகின்றன?",
+    "options_en": ["They absorb green light", "They reflect green light", "They absorb blue light", "They reflect red light"],
+    "options_ta": ["அவை பச்சை ஒளியை உறிஞ்சுகின்றன", "அவை பச்சை ஒளியை பிரதிபலிக்கின்றன", "அவை நீல ஒளியை உறிஞ்சுகின்றன", "அவை சிவப்பு ஒளியை பிரதிபலிக்கின்றன"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why is parallel connection preferred in household wiring?",
+    "question_ta": "வீட்டு மின்சார அமைப்பில் ஏன் இணை இணைப்பு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Saves energy", "Each appliance gets full voltage", "Less wires needed", "Increases resistance"],
+    "options_ta": ["ஆற்றல் சேமிக்கிறது", "ஒவ்வொரு சாதனத்துக்கும் முழு மின்னழுத்தம் கிடைக்கிறது", "குறைந்த கம்பிகள் தேவை", "எதிர்ப்பு அதிகரிக்கிறது"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Which part of the human brain controls involuntary actions like heartbeat?",
+    "question_ta": "இதயத் துடிப்பு போன்ற விருப்பமற்ற செயல்களை மனித மூளையின் எந்த பகுதி கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+    "options_ta": ["முன்மூளை", "சிறுமூளை", "மெடுல்லா ஒப்லாங்காட்டா", "ஹைப்போத்தாலாமஸ்"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Intermediate",
+    "question_en": "Why is carbon called the basis of life?",
+    "question_ta": "கார்பன் ஏன் வாழ்க்கையின் அடிப்படையாக அழைக்கப்படுகிறது?",
+    "options_en": ["It forms only one bond", "It forms many stable compounds", "It is found in air", "It is present in water"],
+    "options_ta": ["அது ஒரு பிணைப்பு மட்டுமே உருவாக்குகிறது", "அது பல நிலையான சேர்மங்களை உருவாக்குகிறது", "அது காற்றில் உள்ளது", "அது தண்ணீரில் உள்ளது"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Which principle explains the working of the human eye similar to a camera?",
+    "question_ta": "மனிதக் கண் கேமராவைப் போல செயல்படுவதைக் குறிப்பிடும் கோட்பாடு எது?",
+    "options_en": ["Refraction of light", "Total internal reflection", "Scattering of light", "Diffraction of light"],
+    "options_ta": ["ஒளியின் விலக்கு", "முழு உள்விளக்கம்", "ஒளி சிதறல்", "ஒளியின் விலகம்"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "A 2 A current flows through a resistor of 6 Ω. What is the heat produced in 5 seconds? (H = I²Rt)",
+    "question_ta": "6 ஓம் எதிர்ப்பில் 2 A மினோட்டம் பாய்கிறது. 5 விநாடிகளில் உண்டாகும் வெப்பம் என்ன? (H = I²Rt)",
+    "options_en": ["60 J", "100 J", "120 J", "150 J"],
+    "options_ta": ["60 ஜூல்", "100 ஜூல்", "120 ஜூல்", "150 ஜூல்"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Why does a concave lens always form a virtual image?",
+    "question_ta": "ஒரு உள்ளிழுக்கும் லென்ஸ் எப்போதும் ஏன் கற்பனை உருவத்தையே உருவாக்குகிறது?",
+    "options_en": ["Because it diverges light rays", "Because it converges light rays", "Because it absorbs light", "Because it reflects light"],
+    "options_ta": ["அது ஒளிக்கதிர்களை பங்குபடுத்துவதால்", "அது ஒளிக்கதிர்களை ஒன்றிணைப்பதால்", "அது ஒளியை உறிஞ்சுவதால்", "அது ஒளியை பிரதிபலிப்பதால்"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "A solenoid of 100 turns carries a current of 2 A. If the length is 50 cm, what is the magnetic field inside? (μ₀ = 4π × 10⁻⁷ Tm/A)",
+    "question_ta": "100 சுற்றுகள் கொண்ட சோலினாய்டில் 2 A மினோட்டம் பாய்கிறது. நீளம் 50 செ.மீ என்றால் உள்ளே காந்த புலம் எவ்வளவு? (μ₀ = 4π × 10⁻⁷ Tm/A)",
+    "options_en": ["2.5 × 10⁻⁴ T", "5.0 × 10⁻⁴ T", "1.26 × 10⁻³ T", "2.52 × 10⁻³ T"],
+    "options_ta": ["2.5 × 10⁻⁴ டெஸ்லா", "5.0 × 10⁻⁴ டெஸ்லா", "1.26 × 10⁻³ டெஸ்லா", "2.52 × 10⁻³ டெஸ்லா"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Which compound is used as an antacid to relieve indigestion?",
+    "question_ta": "அஜீரணத்தை குறைக்க எந்த சேர்மம் அந்தாசிட் ஆக பயன்படுத்தப்படுகிறது?",
+    "options_en": ["NaOH", "CaCO3", "Mg(OH)2", "HCl"],
+    "options_ta": ["NaOH", "CaCO3", "Mg(OH)2", "HCl"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "A convex lens has a focal length of 20 cm. An object is placed 30 cm away. Find the image distance. (1/f = 1/v – 1/u)",
+    "question_ta": "ஒரு வெளிவிழுக்கும் லென்ஸின் குவியநிலை 20 செ.மீ. பொருள் 30 செ.மீ தூரத்தில் வைக்கப்பட்டால் உருவத் தூரம் என்ன? (1/f = 1/v – 1/u)",
+    "options_en": ["40 cm", "60 cm", "15 cm", "10 cm"],
+    "options_ta": ["40 செ.மீ", "60 செ.மீ", "15 செ.மீ", "10 செ.மீ"],
+    "answer": 0
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Why is the atomic number more important than atomic mass in modern classification?",
+    "question_ta": "நவீன வகைப்பாட்டில் ஏன் அணு எண், அணு நிறையைவிட முக்கியமானது?",
+    "options_en": ["Because it shows number of neutrons", "Because it shows number of protons", "Because it shows isotopes", "Because it shows mass number"],
+    "options_ta": ["அது நியூட்ரான்களின் எண்ணிக்கையை காட்டுவதால்", "அது ப்ரோட்டான்களின் எண்ணிக்கையை காட்டுவதால்", "அது ஐசோடோப்புகளை காட்டுவதால்", "அது பருமன் எண்ணை காட்டுவதால்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Why do we apply Fleming’s left hand rule?",
+    "question_ta": "ஃபிளெமிங் இடது கையின்கோட்பாடு எதற்காகப் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["To find direction of induced current", "To find direction of force on conductor", "To find direction of magnetic field", "To find resistance"],
+    "options_ta": ["தூண்டப்பட்ட மினோட்டத்தின் திசை கண்டறிய", "கம்பியில் விசையின் திசை கண்டறிய", "காந்த புலத்தின் திசை கண்டறிய", "எதிர்ப்பைக் கண்டறிய"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "A chemical reaction produces 44 g of CO2. Calculate the number of moles. (Molar mass = 44 g/mol)",
+    "question_ta": "ஒரு வேதியியல் வினையில் 44 g CO2 உருவாகிறது. எத்தனை மோல்கள் உருவாகின்றன? (மோலர் நிறை = 44 g/mol)",
+    "options_en": ["0.5 mol", "1 mol", "2 mol", "4 mol"],
+    "options_ta": ["0.5 மோல்", "1 மோல்", "2 மோல்", "4 மோல்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Which tissue transports water in plants?",
+    "question_ta": "தாவரங்களில் தண்ணீரைக் கடத்தும் திசு எது?",
+    "options_en": ["Phloem", "Xylem", "Cambium", "Epidermis"],
+    "options_ta": ["புளோயம்", "ஜைலம்", "கேம்பியம்", "மேற்படை"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Why does short-circuiting occur in electrical circuits?",
+    "question_ta": "மின்சுற்றுகளில் குறுக்குச்சுற்று ஏன் ஏற்படுகிறது?",
+    "options_en": ["Due to high resistance", "Due to low resistance path", "Due to open circuit", "Due to switch"],
+    "options_ta": ["அதிக எதிர்ப்பால்", "குறைந்த எதிர்ப்பு பாதையால்", "திறந்த சுற்று காரணமாக", "சுவிட்ச் காரணமாக"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "An object of mass 5 kg is lifted 4 m. Calculate potential energy. (g = 10 m/s²)",
+    "question_ta": "5 கிலோ பருமனுடைய பொருள் 4 மீ உயரத்திற்கு தூக்கப்படுகிறது. நிலை ஆற்றலைக் காண்க. (g = 10 m/s²)",
+    "options_en": ["20 J", "40 J", "100 J", "200 J"],
+    "options_ta": ["20 ஜூல்", "40 ஜூல்", "100 ஜூல்", "200 ஜூல்"],
+    "answer": 3
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Why is respiration considered an exothermic reaction?",
+    "question_ta": "சுவாசம் ஏன் வெப்பவிடும் வினையாகக் கருதப்படுகிறது?",
+    "options_en": ["It releases oxygen", "It releases heat energy", "It consumes CO2", "It requires enzymes"],
+    "options_ta": ["அது ஆக்சிஜனை வெளியிடுகிறது", "அது வெப்ப ஆற்றலை வெளியிடுகிறது", "அது CO2-ஐ பயன்படுத்துகிறது", "அதற்கு என்சைம்கள் தேவை"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Which mirror is used in the headlights of vehicles?",
+    "question_ta": "வாகனங்களின் முன்விளக்குகளில் எந்தக் கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Plane mirror", "Convex mirror", "Concave mirror", "Cylindrical mirror"],
+    "options_ta": ["சமத் தட்டு கண்ணாடி", "வெளிவிழுக்கும் கண்ணாடி", "உள்ளிழுக்கும் கண்ணாடி", "உருளை கண்ணாடி"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "What is the main reason for acid rain?",
+    "question_ta": "அமில மழைக்கான முக்கிய காரணம் என்ன?",
+    "options_en": ["Ozone", "Sulphur dioxide & Nitrogen oxides", "Carbon monoxide", "Methane"],
+    "options_ta": ["ஓசோன்", "சல்பர் டையாக்சைடு மற்றும் நைட்ரஜன் ஆக்சைடுகள்", "கார்பன் மோனாக்சைடு", "மீத்தேன்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Which part of the brain controls voluntary actions?",
+    "question_ta": "மூளையின் எந்த பகுதி விருப்ப செயல்களை கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebellum", "Cerebrum", "Medulla", "Pons"],
+    "options_ta": ["சிறுமூளை", "முன்மூளை", "மெடுல்லா", "பான்ஸ்"],
+    "answer": 1
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Why does the Sun appear reddish during sunrise and sunset?",
+    "question_ta": "சூரியன் உதயமும் அஸ்தமனமும் சிவப்பாகத் தோன்றுவதற்குக் காரணம் என்ன?",
+    "options_en": ["Refraction", "Dispersion", "Scattering of shorter wavelengths", "Reflection"],
+    "options_ta": ["விலக்கு", "சிதறல்", "குறுகிய அலைநீள சிதறல்", "பிரதிபலிப்பு"],
+    "answer": 2
+  },
+  {
+    "grade": "10",
+    "level": "Advanced",
+    "question_en": "Why do ionic compounds have high melting and boiling points?",
+    "question_ta": "ஐயோனிக் சேர்மங்களுக்கு ஏன் அதிக உருகும் மற்றும் கொதியும் புள்ளிகள் உள்ளன?",
+    "options_en": ["Weak bonds", "Strong electrostatic forces", "Presence of molecules", "Small ions"],
+    "options_ta": ["பலவீன பிணைப்புகள்", "வலுவான மின்நிலைய விசைகள்", "அணுக்கள் இருப்பதால்", "சிறிய அயன்கள்"],
+    "answer": 1
+  }
+]

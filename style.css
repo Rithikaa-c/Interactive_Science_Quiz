@@ -1,0 +1,300 @@
+/* General Page Style */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #ed6da2, #777fee, #ed6da2);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Main Container */
+.container {
+    background: white;
+    width: 90%;
+    max-width: 800px;
+    min-height: 600px;
+    padding: 50px 40px;
+    border-radius: 25px;
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+
+/* Title & Subtitle */
+.title {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Start Button */
+#start-btn {
+    padding: 12px 25px;
+    background: #0c0255;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#start-btn:hover {
+    background: #84a9e4;
+}
+
+/* Hide Elements */
+.hidden {
+    display: none;
+}
+
+/* Controls (Level & Language & Grade) */
+.controls {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+select {
+    padding: 8px 12px;
+    font-size: 1rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: #f8f8f8;
+    cursor: pointer;
+}
+
+/* Question Box */
+#question-box {
+    background: #cebfed;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+#question-text {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Options */
+#options button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    background: #6f54e6;
+    color: white;
+    font-size: 1.1rem;
+    border: 2px solid transparent; /* Set initial border */
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+#options button:hover {
+    background: #634ea3;
+    border-color: #573bd3;
+    border-radius: 25px; 
+    /* Change border color on hover */
+}
+
+/* Disabled state */
+#options button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+/* Feedback & Congrats */
+#feedback {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+#congrats {
+    font-size: 1.3rem;
+    color: green;
+    margin-top: 10px;
+}
+
+/* Next Button */
+#next-btn {
+    padding: 12px 25px;
+    background: #eeeef0;
+    color: rgb(14, 13, 13);
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-top: 15px;
+}
+
+#next-btn:hover {
+    
+     border-color: #573bd3
+}
+
+/* Back Button */
+#back-btn {
+    padding: 12px 25px;
+    background: #eeeef0;
+    color:  rgb(14, 13, 13);
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: background 0.3s ease;
+}
+
+#back-btn:hover {
+    
+     border-color: #573bd3
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        padding: 20px;
+        min-height: auto;
+    }
+    .title {
+        font-size: 2rem;
+    }
+    #question-text {
+        font-size: 1.2rem;
+    }
+    #options button {
+        font-size: 1rem;
+        padding: 10px;
+    }
+}
+.features {
+    list-style: none;
+    padding: 0;
+    margin: 20px auto;
+    text-align: center;
+    max-width: 320px; /* slightly bigger box width */
+}
+
+.features li {
+    background: #f06485;
+    margin: 10px auto;
+    padding: 15px 20px;
+    border-radius: 15px; /* more curved corners */
+    font-size: 1.05rem;
+    color: #333;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    width: 100%;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+/* Hover effect */
+.features li:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    background: #ff7a9c; /* slightly lighter shade on hover */
+}
+.tagline {
+    text-align: center;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.app-name {
+    font-size: 2.5rem; /* Bigger name */
+    font-weight: bold;
+    color: #5233ff;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    display: block; /* Ensures name appears on its own line */
+}
+
+.tagline-text {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #444;
+    display: block;
+    margin-top: 5px;
+}
+#score-display {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #503ce9;
+    margin-bottom: 15px;
+}
+/* Mystery Box Styles */
+#mystery-box {
+  text-align: center;
+  margin-top: 20px;
+  animation: popIn 0.5s ease-out;
+}
+
+#mystery-box button {
+  background: linear-gradient(45deg, #ffcc00, #ff6600);
+  border: none;
+  border-radius: 12px;
+  padding: 12px 24px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #fff;
+  box-shadow: 0 0 15px rgba(255, 165, 0, 0.8);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  animation: pulse 1.5s infinite;
+}
+
+#mystery-box button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 25px rgba(255, 140, 0, 1);
+}
+
+#mystery-message {
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ff6600;
+  animation: fadeIn 1s ease-in-out;
+}
+
+/* Animations */
+@keyframes pulse {
+  0% { transform: scale(1); box-shadow: 0 0 10px rgba(255, 140, 0, 0.8); }
+  50% { transform: scale(1.05); box-shadow: 0 0 20px rgba(255, 140, 0, 1); }
+  100% { transform: scale(1); box-shadow: 0 0 10px rgba(255, 140, 0, 0.8); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes popIn {
+  from { transform: scale(0.5); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+#streak-display {
+  font-size: 18px;
+  font-weight: bold;
+  color: #f97316; /* bright orange */
+  margin-top: -10px;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Science Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+
+<body onload="init()">
+
+  <div class="container">
+
+    <!-- Start Screen -->
+    <div id="start-screen">
+      <h2 class="tagline">
+        <span class="app-name">🔥 Arivoli - Learn. Engage. Explore 🚀</span> 
+      </h2>
+      <p class="title">🔬 Interactive Science Quiz</p>
+      <p class="subtitle">Test your knowledge and boost your confidence!</p>
+
+      <!-- Features -->
+      <ul class="features">
+        <li>📚 Grade-wise question sets</li>
+        <li>🎯 Three difficulty levels for each grade</li>
+        <li>🧠 Over 1000 science questions</li>
+        <li>🌐 Available in Tamil & English</li>
+        <li>🏆 Earn rewards for correct streaks!</li>
+      </ul>
+
+      <!-- Grade Selection -->
+      <label for="grade">Grade:</label>
+      <select id="grade" onchange="saveSettings()">
+        <option value="6">Grade 6</option>
+        <option value="7">Grade 7</option>
+        <option value="8">Grade 8</option>
+        <option value="9">Grade 9</option>
+        <option value="10">Grade 10</option>
+      </select>
+      <!-- Timer Option -->
+<label>
+  <input type="checkbox" id="enable-timer"> ⏳ Enable Timer Mode (20s per question)
+</label>
+<br><br>
+
+      <br><br>
+      <button id="start-btn" onclick="startQuiz()">Let's Begin 🚀</button>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="hidden">
+      <div class="controls">
+        <label>Difficulty:</label>
+        <select id="level" onchange="buildWorkingSet(); renderQuestion(); saveSettings();">
+          <option value="Beginner">Beginner</option>
+          <option value="Intermediate">Intermediate</option>
+          <option value="Advanced">Advanced</option>
+        </select>
+
+        <label>Language:</label>
+        <select id="language" onchange="renderQuestion(); saveSettings();">
+          <option value="en">English</option>
+          <option value="ta">தமிழ்</option>
+        </select>
+      </div>
+
+      <!-- Score Display -->
+      <p id="score-display">Score: 0</p>
+      <!-- Score & Streak Display -->
+        
+      <p id="streak-display">🔥 Streak: 0/3</p>
+
+      <!-- Question Box -->
+     <div id="question-box">
+  <h2 id="question-text">Loading...</h2>
+  <div id="options"></div>
+  <p id="feedback"></p>
+  <p id="congrats"></p>
+  <div id="timer-display" class="hidden">Time Left: 20s</div> <!-- ✅ Correct place -->
+
+  <button id="next-btn" onclick="nextQuestion()">Next ➡️</button>
+  <button id="back-btn" onclick="goBackToGrade()">⬅️ Back to Grades</button>
+</div>
+<!-- Mystery Box Section -->
+<div id="mystery-box" class="hidden">
+  <button onclick="openMysteryBox()">🎁 Open Mystery Box</button>
+  <p id="mystery-message"></p>
+</div>
+
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
