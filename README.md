@@ -33,3 +33,5 @@ An Interactive Science Quiz built with HTML, CSS, and JavaScript. Test your know
 🖼️ Preview
 
 👉 Live Demo :
+
+ https://rithikaa-c.github.io/Interactive_Science_Quiz/
